@@ -1,0 +1,2081 @@
+longitud,latitud,grado,tipo,rol_modelado
+-72.421358,-37.958595,2,Intermedio,Transito
+-72.398598,-37.921279,2,Intermedio,Transito
+-72.387131,-37.878322,2,Intermedio,Transito
+-72.369583,-37.831361,2,Intermedio,Transito
+-72.309758,-37.791144,2,Intermedio,Transito
+-72.271478,-37.746096,2,Intermedio,Transito
+-72.263601,-37.722279,3,Interconexion potencial,Intercambio potencial
+-72.280512,-37.639181,2,Intermedio,Transito
+-72.921831,-36.830875,3,Interconexion potencial,Intercambio potencial
+-72.857611,-36.814103,2,Intermedio,Transito
+-72.754538,-36.821108,2,Intermedio,Transito
+-72.675146,-36.825478,2,Intermedio,Transito
+-72.666878,-36.822586,2,Intermedio,Transito
+-72.647371,-36.820787,2,Intermedio,Transito
+-72.610846,-36.764409,2,Intermedio,Transito
+-72.498942,-36.741126,2,Intermedio,Transito
+-70.850616,-30.000465,2,Intermedio,Transito
+-70.814252,-30.027713,3,Interconexion potencial,Intercambio potencial
+-70.392052,-23.54542,2,Intermedio,Transito
+-70.39221,-23.602373,2,Intermedio,Transito
+-70.401618,-23.646991,2,Intermedio,Transito
+-70.387388,-24.639893,1,Terminal,Origen/Destino potencial
+-70.349994,-24.640684,1,Terminal,Origen/Destino potencial
+-70.397997,-23.646368,3,Interconexion potencial,Intercambio potencial
+-72.661291,-36.825423,2,Intermedio,Transito
+-72.608429,-35.825479,2,Intermedio,Transito
+-72.636274,-35.845189,1,Terminal,Origen/Destino potencial
+-72.437476,-37.956598,2,Intermedio,Transito
+-72.526316,-51.693535,2,Intermedio,Transito
+-72.529166,-51.604826,2,Intermedio,Transito
+-72.508779,-51.526884,2,Intermedio,Transito
+-72.478673,-51.440749,2,Intermedio,Transito
+-72.433816,-51.369061,2,Intermedio,Transito
+-72.435716,-51.329177,2,Intermedio,Transito
+-72.416139,-51.298222,2,Intermedio,Transito
+-72.345497,-51.259054,2,Intermedio,Transito
+-72.380007,-38.065731,2,Intermedio,Transito
+-72.320472,-38.136188,2,Intermedio,Transito
+-72.335993,-38.205212,2,Intermedio,Transito
+-72.249239,-37.721867,2,Intermedio,Transito
+-73.130503,-36.845247,2,Intermedio,Transito
+-73.138931,-36.880338,2,Intermedio,Transito
+-73.156131,-36.952602,2,Intermedio,Transito
+-73.160173,-36.968545,2,Intermedio,Transito
+-70.831049,-32.767496,2,Intermedio,Transito
+-70.757838,-32.741504,2,Intermedio,Transito
+-70.736967,-32.757573,3,Interconexion potencial,Intercambio potencial
+-70.673389,-32.896397,2,Intermedio,Transito
+-70.654926,-32.880286,2,Intermedio,Transito
+-72.099554,-45.623043,2,Intermedio,Transito
+-72.07507,-45.584741,2,Intermedio,Transito
+-68.870915,-22.43734,2,Intermedio,Transito
+-68.856289,-22.43449,1,Terminal,Origen/Destino potencial
+-69.666822,-20.961835,2,Intermedio,Transito
+-69.596026,-21.080388,2,Intermedio,Transito
+-69.591559,-21.09208,2,Intermedio,Transito
+-73.009447,-41.31801,4,Interconexion potencial,Intercambio potencial
+-73.008561,-41.290778,2,Intermedio,Transito
+-73.02234,-41.255202,3,Interconexion potencial,Intercambio potencial
+-70.834924,-32.770274,2,Intermedio,Transito
+-72.244138,-37.720121,2,Intermedio,Transito
+-72.375456,-38.060917,3,Interconexion potencial,Intercambio potencial
+-72.331527,-38.233962,3,Interconexion potencial,Intercambio potencial
+-72.068487,-45.571182,3,Interconexion potencial,Intercambio potencial
+-72.93839,-36.97593,1,Terminal,Origen/Destino potencial
+-72.990212,-36.968714,2,Intermedio,Transito
+-73.026736,-36.929813,2,Intermedio,Transito
+-73.035526,-36.892557,2,Intermedio,Transito
+-73.043113,-36.865516,2,Intermedio,Transito
+-73.05573,-36.835437,3,Interconexion potencial,Intercambio potencial
+-71.076801,-34.439251,3,Interconexion potencial,Intercambio potencial
+-71.072338,-34.434469,2,Intermedio,Transito
+-72.644722,-38.988274,2,Intermedio,Transito
+-72.672979,-39.094517,2,Intermedio,Transito
+-72.689917,-39.47691,2,Intermedio,Transito
+-72.637417,-39.486328,2,Intermedio,Transito
+-72.593266,-39.510115,2,Intermedio,Transito
+-72.505766,-39.542931,2,Intermedio,Transito
+-72.65584,-38.757284,2,Intermedio,Transito
+-72.761803,-38.766924,2,Intermedio,Transito
+-72.370799,-38.298035,2,Intermedio,Transito
+-72.380529,-38.336204,2,Intermedio,Transito
+-72.484541,-38.662807,1,Terminal,Origen/Destino potencial
+-72.560061,-38.712894,2,Intermedio,Transito
+-72.392633,-37.185073,2,Intermedio,Transito
+-72.384756,-37.117403,2,Intermedio,Transito
+-72.371089,-37.041444,4,Interconexion potencial,Intercambio potencial
+-72.401783,-37.04052,4,Interconexion potencial,Intercambio potencial
+-71.685856,-35.695207,1,Terminal,Origen/Destino potencial
+-71.740758,-35.679402,2,Intermedio,Transito
+-71.744117,-35.669711,2,Intermedio,Transito
+-71.730913,-35.598071,2,Intermedio,Transito
+-73.464267,-37.627823,2,Intermedio,Transito
+-73.549493,-37.663436,2,Intermedio,Transito
+-70.741803,-33.273586,3,Interconexion potencial,Intercambio potencial
+-70.730003,-33.300159,2,Intermedio,Transito
+-70.893764,-33.162776,2,Intermedio,Transito
+-70.929165,-33.093332,2,Intermedio,Transito
+-71.333189,-33.052399,1,Terminal,Origen/Destino potencial
+-71.442203,-33.06276,2,Intermedio,Transito
+-70.941809,-33.670801,2,Intermedio,Transito
+-70.984836,-33.682291,2,Intermedio,Transito
+-71.214021,-33.730707,2,Intermedio,Transito
+-71.237782,-33.761745,2,Intermedio,Transito
+-71.414307,-33.909174,2,Intermedio,Transito
+-71.436222,-33.91417,2,Intermedio,Transito
+-71.310752,-34.293709,2,Intermedio,Transito
+-71.216188,-34.354569,3,Interconexion potencial,Intercambio potencial
+-71.369032,-34.400814,1,Terminal,Origen/Destino potencial
+-71.387977,-34.531989,1,Terminal,Origen/Destino potencial
+-72.675587,-37.508152,2,Intermedio,Transito
+-72.59467,-37.561051,3,Interconexion potencial,Intercambio potencial
+-72.604946,-37.711902,2,Intermedio,Transito
+-72.636012,-37.77557,2,Intermedio,Transito
+-72.697181,-37.803356,2,Intermedio,Transito
+-72.944188,-40.238761,2,Intermedio,Transito
+-72.951252,-40.252486,3,Interconexion potencial,Intercambio potencial
+-73.083866,-40.296828,2,Intermedio,Transito
+-72.986171,-40.320519,4,Interconexion potencial,Intercambio potencial
+-72.997169,-40.348973,3,Interconexion potencial,Intercambio potencial
+-73.001986,-40.410735,2,Intermedio,Transito
+-73.033935,-40.472929,2,Intermedio,Transito
+-73.071745,-40.528476,2,Intermedio,Transito
+-73.098155,-40.5616,3,Interconexion potencial,Intercambio potencial
+-72.563244,-37.098559,2,Intermedio,Transito
+-72.456959,-37.079577,2,Intermedio,Transito
+-72.438656,-37.083036,2,Intermedio,Transito
+-70.715614,-32.772761,2,Intermedio,Transito
+-70.688561,-32.823976,2,Intermedio,Transito
+-70.588057,-32.834297,2,Intermedio,Transito
+-70.484984,-32.856081,2,Intermedio,Transito
+-70.471819,-32.853046,2,Intermedio,Transito
+-70.131774,-32.842458,2,Intermedio,Transito
+-70.084893,-32.810146,1,Terminal,Origen/Destino potencial
+-70.596084,-32.830182,2,Intermedio,Transito
+-70.584926,-32.808662,2,Intermedio,Transito
+-70.866852,-33.748931,2,Intermedio,Transito
+-70.891817,-33.751,2,Intermedio,Transito
+-72.061343,-45.701083,3,Interconexion potencial,Intercambio potencial
+-72.078121,-45.657055,2,Intermedio,Transito
+-72.425029,-44.02128,2,Intermedio,Transito
+-72.402873,-43.97566,1,Terminal,Origen/Destino potencial
+-70.818407,-33.571236,2,Intermedio,Transito
+-70.891614,-33.611342,2,Intermedio,Transito
+-71.613642,-33.580721,2,Intermedio,Transito
+-71.610717,-33.551802,2,Intermedio,Transito
+-71.66748,-33.455425,2,Intermedio,Transito
+-71.615065,-33.498551,2,Intermedio,Transito
+-71.684635,-33.378417,2,Intermedio,Transito
+-71.668112,-33.369306,2,Intermedio,Transito
+-70.789314,-34.182827,1,Terminal,Origen/Destino potencial
+-70.888451,-34.206041,2,Intermedio,Transito
+-70.956915,-34.228595,3,Interconexion potencial,Intercambio potencial
+-70.951302,-34.26983,2,Intermedio,Transito
+-70.972884,-34.330502,2,Intermedio,Transito
+-70.969722,-34.355633,2,Intermedio,Transito
+-70.426126,-23.775182,2,Intermedio,Transito
+-70.413239,-23.788928,3,Interconexion potencial,Intercambio potencial
+-69.564166,-22.278427,2,Intermedio,Transito
+-69.595631,-22.279378,3,Interconexion potencial,Intercambio potencial
+-70.260778,-23.595455,2,Intermedio,Transito
+-70.344341,-23.6253,2,Intermedio,Transito
+-68.901272,-22.443113,2,Intermedio,Transito
+-69.575511,-21.137657,2,Intermedio,Transito
+-70.691915,-30.281043,2,Intermedio,Transito
+-70.736029,-30.326569,2,Intermedio,Transito
+-71.183018,-30.56947,2,Intermedio,Transito
+-71.190449,-30.580973,2,Intermedio,Transito
+-71.256105,-32.45225,3,Interconexion potencial,Intercambio potencial
+-71.257727,-32.476806,2,Intermedio,Transito
+-70.692785,-33.094975,1,Terminal,Origen/Destino potencial
+-70.647327,-33.160255,2,Intermedio,Transito
+-70.645825,-33.180041,2,Intermedio,Transito
+-70.959207,-34.460775,2,Intermedio,Transito
+-70.974386,-34.457874,2,Intermedio,Transito
+-71.174085,-34.384899,2,Intermedio,Transito
+-71.20315,-34.964794,2,Intermedio,Transito
+-71.213584,-34.976671,2,Intermedio,Transito
+-73.048502,-41.226575,2,Intermedio,Transito
+-73.068236,-41.193971,2,Intermedio,Transito
+-73.070139,-41.173689,2,Intermedio,Transito
+-73.064129,-41.13938,2,Intermedio,Transito
+-73.065162,-41.112934,2,Intermedio,Transito
+-72.993359,-36.75427,1,Terminal,Origen/Destino potencial
+-72.978912,-36.723738,2,Intermedio,Transito
+-72.96914,-36.693535,2,Intermedio,Transito
+-72.955826,-36.659381,2,Intermedio,Transito
+-72.957195,-36.622105,2,Intermedio,Transito
+-68.927341,-22.462309,2,Intermedio,Transito
+-71.202976,-30.603094,4,Interconexion potencial,Intercambio potencial
+-70.57961,-32.79902,2,Intermedio,Transito
+-70.59824,-32.833605,2,Intermedio,Transito
+-70.687841,-32.836938,2,Intermedio,Transito
+-71.673584,-33.366806,2,Intermedio,Transito
+-71.694328,-33.399674,2,Intermedio,Transito
+-71.693584,-33.422624,2,Intermedio,Transito
+-71.686298,-33.380873,2,Intermedio,Transito
+-71.682659,-33.441902,2,Intermedio,Transito
+-71.669192,-33.454683,2,Intermedio,Transito
+-71.613253,-33.580871,2,Intermedio,Transito
+-70.988635,-34.30211,2,Intermedio,Transito
+-70.951631,-34.269984,2,Intermedio,Transito
+-71.309841,-34.291744,2,Intermedio,Transito
+-71.362289,-34.271953,3,Interconexion potencial,Intercambio potencial
+-71.169499,-34.396017,2,Intermedio,Transito
+-71.139141,-34.409296,3,Interconexion potencial,Intercambio potencial
+-70.943986,-34.442163,2,Intermedio,Transito
+-71.119931,-34.636097,2,Intermedio,Transito
+-71.117853,-34.638358,2,Intermedio,Transito
+-71.204247,-34.653929,3,Interconexion potencial,Intercambio potencial
+-71.197884,-34.652639,2,Intermedio,Transito
+-71.143857,-34.642682,2,Intermedio,Transito
+-71.735286,-35.592395,2,Intermedio,Transito
+-71.74465,-35.675222,2,Intermedio,Transito
+-72.95744,-36.617002,2,Intermedio,Transito
+-73.46187,-37.627164,2,Intermedio,Transito
+-72.5623,-37.097876,2,Intermedio,Transito
+-72.400465,-35.366657,2,Intermedio,Transito
+-72.435226,-35.398674,2,Intermedio,Transito
+-72.452459,-35.434652,2,Intermedio,Transito
+-72.479981,-35.451521,2,Intermedio,Transito
+-72.562589,-35.545846,2,Intermedio,Transito
+-72.60296,-35.568165,2,Intermedio,Transito
+-72.533151,-35.734198,2,Intermedio,Transito
+-72.534069,-35.763122,2,Intermedio,Transito
+-72.540364,-35.79367,3,Interconexion potencial,Intercambio potencial
+-72.708645,-37.79879,2,Intermedio,Transito
+-72.364034,-38.271379,2,Intermedio,Transito
+-72.355873,-38.23903,2,Intermedio,Transito
+-72.590134,-38.740013,4,Interconexion potencial,Intercambio potencial
+-72.641832,-39.372332,2,Intermedio,Transito
+-72.630083,-39.370611,2,Intermedio,Transito
+-72.768185,-39.441552,2,Intermedio,Transito
+-72.775517,-39.452266,3,Interconexion potencial,Intercambio potencial
+-73.082178,-40.295189,2,Intermedio,Transito
+-70.929471,-33.085282,2,Intermedio,Transito
+-70.90049,-33.608417,2,Intermedio,Transito
+-70.930348,-33.664482,2,Intermedio,Transito
+-70.977984,-33.678566,2,Intermedio,Transito
+-70.815442,-33.570682,1,Terminal,Origen/Destino potencial
+-72.805101,-38.76773,2,Intermedio,Transito
+-72.862121,-38.768976,2,Intermedio,Transito
+-72.924358,-38.755084,2,Intermedio,Transito
+-72.951999,-38.7453,3,Interconexion potencial,Intercambio potencial
+-70.798862,-33.623355,2,Intermedio,Transito
+-70.839582,-33.665804,2,Intermedio,Transito
+-70.856872,-33.708147,2,Intermedio,Transito
+-70.6823,-34.079913,2,Intermedio,Transito
+-70.668653,-34.035661,2,Intermedio,Transito
+-70.668653,-34.033267,3,Interconexion potencial,Intercambio potencial
+-70.666455,-34.011619,2,Intermedio,Transito
+-71.593324,-35.37153,3,Interconexion potencial,Intercambio potencial
+-71.666054,-35.426488,5,Interconexion potencial,Intercambio potencial
+-72.402061,-38.039463,2,Intermedio,Transito
+-72.386216,-38.055924,2,Intermedio,Transito
+-72.227467,-39.278102,3,Interconexion potencial,Intercambio potencial
+-72.284028,-39.27452,2,Intermedio,Transito
+-72.308543,-39.279793,2,Intermedio,Transito
+-72.692524,-39.40277,2,Intermedio,Transito
+-72.75745,-39.434188,2,Intermedio,Transito
+-71.074375,-34.433599,2,Intermedio,Transito
+-73.003401,-40.422969,1,Terminal,Origen/Destino potencial
+-72.336225,-39.642154,2,Intermedio,Transito
+-72.213003,-39.294439,2,Intermedio,Transito
+-72.104471,-39.297484,2,Intermedio,Transito
+-71.996903,-39.289159,2,Intermedio,Transito
+-71.976673,-39.281019,2,Intermedio,Transito
+-71.890298,-39.294626,3,Interconexion potencial,Intercambio potencial
+-71.824071,-39.235147,2,Intermedio,Transito
+-71.81227,-39.20654,2,Intermedio,Transito
+-71.816605,-39.189805,1,Terminal,Origen/Destino potencial
+-72.453616,-38.509026,1,Terminal,Origen/Destino potencial
+-72.438269,-38.515416,2,Intermedio,Transito
+-72.302867,-37.554935,2,Intermedio,Transito
+-72.358695,-37.522514,2,Intermedio,Transito
+-72.404679,-37.48438,4,Interconexion potencial,Intercambio potencial
+-71.769483,-35.620483,2,Intermedio,Transito
+-71.890986,-35.592137,2,Intermedio,Transito
+-72.0338,-35.578856,2,Intermedio,Transito
+-72.11013,-35.556432,2,Intermedio,Transito
+-71.630329,-35.839797,3,Interconexion potencial,Intercambio potencial
+-71.613989,-35.842795,2,Intermedio,Transito
+-71.769562,-36.05159,3,Interconexion potencial,Intercambio potencial
+-71.765864,-36.055692,2,Intermedio,Transito
+-73.162581,-36.998153,2,Intermedio,Transito
+-73.147875,-37.02775,2,Intermedio,Transito
+-73.177545,-37.151301,1,Terminal,Origen/Destino potencial
+-73.187779,-37.168778,2,Intermedio,Transito
+-73.228887,-37.237277,2,Intermedio,Transito
+-73.235509,-37.2509,3,Interconexion potencial,Intercambio potencial
+-73.308006,-37.245081,2,Intermedio,Transito
+-73.263716,-37.304139,2,Intermedio,Transito
+-73.337418,-37.374155,2,Intermedio,Transito
+-73.355908,-37.443559,2,Intermedio,Transito
+-73.360896,-37.463835,2,Intermedio,Transito
+-73.38489,-37.782681,2,Intermedio,Transito
+-73.394092,-37.797701,2,Intermedio,Transito
+-70.888947,-33.275331,2,Intermedio,Transito
+-70.925392,-33.233106,2,Intermedio,Transito
+-70.929165,-33.084386,2,Intermedio,Transito
+-70.97725,-33.070362,2,Intermedio,Transito
+-71.058809,-33.061212,2,Intermedio,Transito
+-71.148155,-33.027231,2,Intermedio,Transito
+-71.171756,-33.019625,2,Intermedio,Transito
+-71.268327,-33.001719,2,Intermedio,Transito
+-71.353418,-33.046612,2,Intermedio,Transito
+-71.507225,-32.921299,2,Intermedio,Transito
+-71.492013,-32.858474,2,Intermedio,Transito
+-71.473711,-32.802556,2,Intermedio,Transito
+-71.482461,-32.765369,2,Intermedio,Transito
+-71.477243,-32.748357,1,Terminal,Origen/Destino potencial
+-70.904962,-33.61072,2,Intermedio,Transito
+-70.929687,-33.66412,2,Intermedio,Transito
+-70.99182,-33.683226,2,Intermedio,Transito
+-71.080363,-33.690707,2,Intermedio,Transito
+-71.192828,-33.680822,2,Intermedio,Transito
+-71.216429,-33.710342,2,Intermedio,Transito
+-71.325362,-33.817853,2,Intermedio,Transito
+-71.394078,-33.878988,2,Intermedio,Transito
+-71.396486,-34.167341,1,Terminal,Origen/Destino potencial
+-72.315313,-35.973634,2,Intermedio,Transito
+-72.35505,-36.009422,2,Intermedio,Transito
+-72.417664,-36.071346,2,Intermedio,Transito
+-72.455313,-36.127322,2,Intermedio,Transito
+-72.451941,-36.19181,2,Intermedio,Transito
+-72.548432,-36.246017,2,Intermedio,Transito
+-72.549754,-36.306994,2,Intermedio,Transito
+-72.620037,-36.370026,2,Intermedio,Transito
+-72.802302,-39.464145,2,Intermedio,Transito
+-72.931825,-39.55658,3,Interconexion potencial,Intercambio potencial
+-72.964899,-39.547543,3,Interconexion potencial,Intercambio potencial
+-72.88639,-40.155371,2,Intermedio,Transito
+-72.928614,-40.208237,2,Intermedio,Transito
+-73.026871,-40.256958,2,Intermedio,Transito
+-73.10835,-40.621887,2,Intermedio,Transito
+-73.128098,-40.682364,2,Intermedio,Transito
+-73.151217,-40.741995,2,Intermedio,Transito
+-73.143751,-40.927725,2,Intermedio,Transito
+-73.124405,-40.989257,2,Intermedio,Transito
+-73.099439,-41.051821,2,Intermedio,Transito
+-72.983121,-41.350493,2,Intermedio,Transito
+-72.957754,-41.408619,2,Intermedio,Transito
+-72.953981,-41.470603,2,Intermedio,Transito
+-73.150575,-41.542322,2,Intermedio,Transito
+-73.237111,-41.590971,3,Interconexion potencial,Intercambio potencial
+-73.763394,-42.484658,2,Intermedio,Transito
+-73.82665,-42.536968,2,Intermedio,Transito
+-70.942932,-32.850989,2,Intermedio,Transito
+-71.049698,-32.836961,2,Intermedio,Transito
+-73.805056,-42.597213,2,Intermedio,Transito
+-73.802407,-42.610507,3,Interconexion potencial,Intercambio potencial
+-73.77399,-42.625039,2,Intermedio,Transito
+-72.369499,-38.691431,2,Intermedio,Transito
+-72.44271,-38.69826,2,Intermedio,Transito
+-72.499705,-38.688361,2,Intermedio,Transito
+-72.346982,-35.951932,2,Intermedio,Transito
+-72.378851,-35.901424,2,Intermedio,Transito
+-72.474619,-35.873654,2,Intermedio,Transito
+-72.522864,-35.811444,2,Intermedio,Transito
+-72.530892,-35.729963,2,Intermedio,Transito
+-72.537956,-35.678205,2,Intermedio,Transito
+-72.570708,-35.617735,2,Intermedio,Transito
+-71.675642,-35.420742,2,Intermedio,Transito
+-71.751101,-35.417537,2,Intermedio,Transito
+-72.511305,-37.4714,2,Intermedio,Transito
+-72.592944,-37.443298,2,Intermedio,Transito
+-72.621362,-37.394461,2,Intermedio,Transito
+-72.651866,-37.353059,2,Intermedio,Transito
+-72.699871,-37.314379,2,Intermedio,Transito
+-73.027393,-36.81089,2,Intermedio,Transito
+-72.418667,-36.757463,2,Intermedio,Transito
+-72.320973,-36.751739,2,Intermedio,Transito
+-72.313026,-36.752254,2,Intermedio,Transito
+-70.700582,-33.366189,1,Terminal,Origen/Destino potencial
+-70.809596,-33.137002,2,Intermedio,Transito
+-70.887783,-33.014711,2,Intermedio,Transito
+-70.817864,-32.948046,2,Intermedio,Transito
+-70.836167,-32.882949,2,Intermedio,Transito
+-69.796646,-26.31521,2,Intermedio,Transito
+-69.885952,-26.314202,2,Intermedio,Transito
+-71.203023,-32.724723,2,Intermedio,Transito
+-71.220122,-32.657705,2,Intermedio,Transito
+-71.244766,-32.590163,2,Intermedio,Transito
+-71.262347,-32.523788,2,Intermedio,Transito
+-71.289881,-32.459464,2,Intermedio,Transito
+-71.370236,-32.402008,2,Intermedio,Transito
+-71.450511,-32.336715,2,Intermedio,Transito
+-71.466165,-32.279859,2,Intermedio,Transito
+-71.500201,-32.235394,2,Intermedio,Transito
+-71.520029,-32.173175,2,Intermedio,Transito
+-71.500362,-32.130222,3,Interconexion potencial,Intercambio potencial
+-71.519467,-32.062284,2,Intermedio,Transito
+-71.510798,-32.000287,2,Intermedio,Transito
+-71.484949,-31.939202,2,Intermedio,Transito
+-71.489525,-31.916719,2,Intermedio,Transito
+-71.172519,-31.635354,2,Intermedio,Transito
+-71.284221,-31.671673,1,Terminal,Origen/Destino potencial
+-71.008798,-31.175966,2,Intermedio,Transito
+-71.030151,-31.150687,3,Interconexion potencial,Intercambio potencial
+-71.224256,-30.668398,2,Intermedio,Transito
+-71.242157,-30.730037,2,Intermedio,Transito
+-71.255322,-30.792189,2,Intermedio,Transito
+-71.26054,-30.827834,2,Intermedio,Transito
+-71.259256,-29.840406,2,Intermedio,Transito
+-71.306779,-29.780923,2,Intermedio,Transito
+-71.328132,-29.751795,2,Intermedio,Transito
+-70.271352,-27.420867,2,Intermedio,Transito
+-70.267017,-27.460905,2,Intermedio,Transito
+-70.264609,-27.492669,2,Intermedio,Transito
+-70.271673,-27.538661,1,Terminal,Origen/Destino potencial
+-69.981078,-27.998296,1,Terminal,Origen/Destino potencial
+-69.960046,-28.046484,2,Intermedio,Transito
+-69.922477,-28.116246,2,Intermedio,Transito
+-69.90578,-28.134724,1,Terminal,Origen/Destino potencial
+-69.615907,-26.276203,2,Intermedio,Transito
+-69.715528,-26.319383,2,Intermedio,Transito
+-69.781273,-26.315498,2,Intermedio,Transito
+-71.195785,-34.967038,1,Terminal,Origen/Destino potencial
+-73.02551,-41.324221,1,Terminal,Origen/Destino potencial
+-69.980034,-26.336363,2,Intermedio,Transito
+-69.981921,-26.359814,2,Intermedio,Transito
+-70.037912,-26.390379,2,Intermedio,Transito
+-71.384405,-30.19819,1,Terminal,Origen/Destino potencial
+-71.421893,-30.197635,3,Interconexion potencial,Intercambio potencial
+-71.582583,-33.063096,2,Intermedio,Transito
+-71.548788,-33.104999,2,Intermedio,Transito
+-71.541162,-33.161802,2,Intermedio,Transito
+-71.474694,-33.214606,2,Intermedio,Transito
+-71.430784,-33.273083,2,Intermedio,Transito
+-71.40935,-33.307506,2,Intermedio,Transito
+-71.235635,-33.630941,2,Intermedio,Transito
+-71.215968,-33.674108,2,Intermedio,Transito
+-71.217082,-33.679966,2,Intermedio,Transito
+-72.987837,-41.316919,2,Intermedio,Transito
+-72.279643,-35.451013,2,Intermedio,Transito
+-72.365305,-35.407232,2,Intermedio,Transito
+-72.418447,-35.345903,2,Intermedio,Transito
+-70.716617,-34.188028,2,Intermedio,Transito
+-70.648624,-34.193606,3,Interconexion potencial,Intercambio potencial
+-71.202241,-32.798203,2,Intermedio,Transito
+-71.223514,-32.825393,2,Intermedio,Transito
+-71.227447,-32.827214,2,Intermedio,Transito
+-71.242539,-32.876983,2,Intermedio,Transito
+-70.978916,-32.833015,3,Interconexion potencial,Intercambio potencial
+-70.955475,-32.808055,3,Interconexion potencial,Intercambio potencial
+-70.958205,-32.803332,2,Intermedio,Transito
+-70.849432,-32.779915,2,Intermedio,Transito
+-70.687277,-32.839962,2,Intermedio,Transito
+-70.396842,-32.874825,2,Intermedio,Transito
+-70.309503,-32.909539,2,Intermedio,Transito
+-71.276305,-34.933118,2,Intermedio,Transito
+-71.264605,-34.868344,2,Intermedio,Transito
+-68.923013,-22.345714,1,Terminal,Origen/Destino potencial
+-68.928547,-22.324507,1,Terminal,Origen/Destino potencial
+-70.237014,-32.898554,2,Intermedio,Transito
+-70.149193,-32.866667,2,Intermedio,Transito
+-70.733515,-32.73833,2,Intermedio,Transito
+-70.731027,-32.685106,2,Intermedio,Transito
+-70.717701,-32.634284,2,Intermedio,Transito
+-71.546379,-34.451402,2,Intermedio,Transito
+-71.485692,-34.478009,2,Intermedio,Transito
+-71.616379,-34.404324,2,Intermedio,Transito
+-71.606064,-33.622786,2,Intermedio,Transito
+-71.511982,-33.633815,2,Intermedio,Transito
+-71.457074,-33.610887,1,Terminal,Origen/Destino potencial
+-71.871252,-45.83967,3,Interconexion potencial,Intercambio potencial
+-71.92014,-45.806664,2,Intermedio,Transito
+-71.985323,-45.752134,2,Intermedio,Transito
+-69.741196,-20.096497,2,Intermedio,Transito
+-69.74818,-20.029916,2,Intermedio,Transito
+-69.778122,-19.945801,2,Intermedio,Transito
+-69.796907,-19.872135,2,Intermedio,Transito
+-69.832147,-19.816637,2,Intermedio,Transito
+-69.848363,-19.791184,2,Intermedio,Transito
+-69.894441,-19.718429,2,Intermedio,Transito
+-69.936826,-19.651008,2,Intermedio,Transito
+-69.940037,-19.614565,1,Terminal,Origen/Destino potencial
+-70.861098,-33.547915,1,Terminal,Origen/Destino potencial
+-70.825206,-33.558061,1,Terminal,Origen/Destino potencial
+-71.594352,-33.536977,2,Intermedio,Transito
+-71.5568,-33.303984,1,Terminal,Origen/Destino potencial
+-71.499563,-33.291297,1,Terminal,Origen/Destino potencial
+-71.057001,-34.268262,2,Intermedio,Transito
+-71.08475,-34.287533,2,Intermedio,Transito
+-70.907741,-34.403915,2,Intermedio,Transito
+-70.94474,-34.440761,2,Intermedio,Transito
+-70.426521,-23.451894,3,Interconexion potencial,Intercambio potencial
+-70.409603,-23.496853,2,Intermedio,Transito
+-69.00373,-22.316975,2,Intermedio,Transito
+-69.080811,-22.297007,2,Intermedio,Transito
+-69.176628,-22.285669,2,Intermedio,Transito
+-69.274896,-22.278354,2,Intermedio,Transito
+-69.379173,-22.27155,2,Intermedio,Transito
+-69.469535,-22.275281,2,Intermedio,Transito
+-69.668363,-22.591838,1,Terminal,Origen/Destino potencial
+-69.622036,-22.612165,3,Interconexion potencial,Intercambio potencial
+-70.153734,-23.744756,2,Intermedio,Transito
+-70.052146,-23.768635,2,Intermedio,Transito
+-69.98305,-23.784117,2,Intermedio,Transito
+-69.268532,-24.201944,2,Intermedio,Transito
+-69.155481,-24.245346,2,Intermedio,Transito
+-69.128443,-24.256662,1,Terminal,Origen/Destino potencial
+-69.134673,-24.253974,1,Terminal,Origen/Destino potencial
+-69.084962,-24.224728,2,Intermedio,Transito
+-68.989303,-24.238426,2,Intermedio,Transito
+-68.958312,-24.23273,2,Intermedio,Transito
+-69.548631,-21.213808,2,Intermedio,Transito
+-69.527602,-21.283512,2,Intermedio,Transito
+-69.507996,-21.356496,2,Intermedio,Transito
+-69.50183,-21.428045,2,Intermedio,Transito
+-69.523096,-21.497868,2,Intermedio,Transito
+-69.538117,-21.569201,2,Intermedio,Transito
+-69.549659,-21.631092,2,Intermedio,Transito
+-69.533927,-21.698026,2,Intermedio,Transito
+-69.513846,-21.771903,2,Intermedio,Transito
+-69.535824,-21.844348,2,Intermedio,Transito
+-69.558435,-21.913236,2,Intermedio,Transito
+-69.588081,-21.960975,2,Intermedio,Transito
+-69.595552,-22.076372,2,Intermedio,Transito
+-69.575946,-22.150785,2,Intermedio,Transito
+-69.843238,-24.495662,2,Intermedio,Transito
+-69.804183,-24.55802,2,Intermedio,Transito
+-70.373869,-25.596343,2,Intermedio,Transito
+-70.364856,-25.719911,2,Intermedio,Transito
+-70.32849,-25.761071,1,Terminal,Origen/Destino potencial
+-70.650094,-30.219307,2,Intermedio,Transito
+-70.654838,-30.222176,2,Intermedio,Transito
+-72.826089,-39.996947,2,Intermedio,Transito
+-72.840819,-39.990437,1,Terminal,Origen/Destino potencial
+-71.642499,-35.445238,2,Intermedio,Transito
+-71.656191,-35.4795,2,Intermedio,Transito
+-71.674886,-35.518474,2,Intermedio,Transito
+-71.695659,-35.555009,2,Intermedio,Transito
+-71.707934,-35.593141,2,Intermedio,Transito
+-71.699484,-35.631906,2,Intermedio,Transito
+-71.69108,-35.670576,2,Intermedio,Transito
+-71.683007,-35.707387,2,Intermedio,Transito
+-71.674839,-35.744411,2,Intermedio,Transito
+-71.661856,-35.782682,2,Intermedio,Transito
+-71.643255,-35.81925,2,Intermedio,Transito
+-70.817458,-30.381759,2,Intermedio,Transito
+-70.904658,-30.412717,2,Intermedio,Transito
+-71.151316,-30.52324,1,Terminal,Origen/Destino potencial
+-71.092103,-32.390044,2,Intermedio,Transito
+-71.065116,-32.42544,2,Intermedio,Transito
+-71.070911,-32.429758,2,Intermedio,Transito
+-71.138904,-32.484742,2,Intermedio,Transito
+-71.231461,-32.450218,2,Intermedio,Transito
+-70.796745,-33.110605,2,Intermedio,Transito
+-70.78963,-33.108618,1,Terminal,Origen/Destino potencial
+-71.804134,-36.094061,2,Intermedio,Transito
+-71.818881,-36.129949,2,Intermedio,Transito
+-71.825821,-36.140168,2,Intermedio,Transito
+-71.823177,-36.180381,2,Intermedio,Transito
+-71.81822,-36.216765,2,Intermedio,Transito
+-71.813593,-36.250962,2,Intermedio,Transito
+-72.08402,-36.631179,2,Intermedio,Transito
+-72.068157,-36.638681,2,Intermedio,Transito
+-72.285812,-36.748973,3,Interconexion potencial,Intercambio potencial
+-72.271213,-36.715545,2,Intermedio,Transito
+-72.251149,-36.680568,2,Intermedio,Transito
+-72.211822,-36.642052,2,Intermedio,Transito
+-72.154885,-36.614735,2,Intermedio,Transito
+-72.104416,-36.576376,2,Intermedio,Transito
+-72.091196,-36.54509,2,Intermedio,Transito
+-72.06919,-36.527195,2,Intermedio,Transito
+-72.854039,-36.631883,2,Intermedio,Transito
+-72.792548,-36.637037,2,Intermedio,Transito
+-69.772667,-19.995795,2,Intermedio,Transito
+-69.776818,-19.952735,2,Intermedio,Transito
+-70.045913,-26.391207,3,Interconexion potencial,Intercambio potencial
+-70.274024,-27.418897,3,Interconexion potencial,Intercambio potencial
+-70.266211,-27.482233,2,Intermedio,Transito
+-71.251968,-29.902693,4,Interconexion potencial,Intercambio potencial
+-71.254422,-29.865057,2,Intermedio,Transito
+-71.098664,-30.504102,2,Intermedio,Transito
+-71.061357,-30.47609,2,Intermedio,Transito
+-70.995834,-30.445244,2,Intermedio,Transito
+-70.971789,-30.414308,2,Intermedio,Transito
+-71.479295,-34.478025,1,Terminal,Origen/Destino potencial
+-71.281839,-35.050053,2,Intermedio,Transito
+-71.263703,-35.082835,2,Intermedio,Transito
+-71.279994,-35.113989,2,Intermedio,Transito
+-70.93831,-30.409103,2,Intermedio,Transito
+-71.12909,-30.614146,1,Terminal,Origen/Destino potencial
+-71.186556,-30.597628,2,Intermedio,Transito
+-71.210288,-30.639877,2,Intermedio,Transito
+-71.257375,-30.833743,2,Intermedio,Transito
+-71.002493,-31.178244,2,Intermedio,Transito
+-71.168337,-31.632736,3,Interconexion potencial,Intercambio potencial
+-71.613464,-35.439299,2,Intermedio,Transito
+-71.558497,-35.473293,2,Intermedio,Transito
+-71.515674,-35.508684,2,Intermedio,Transito
+-71.478699,-35.527564,2,Intermedio,Transito
+-71.360142,-35.566843,2,Intermedio,Transito
+-71.354293,-35.55017,2,Intermedio,Transito
+-71.066515,-32.426361,3,Interconexion potencial,Intercambio potencial
+-71.321509,-32.444697,2,Intermedio,Transito
+-71.231642,-32.449524,3,Interconexion potencial,Intercambio potencial
+-71.162244,-32.793379,2,Intermedio,Transito
+-71.193433,-32.766541,2,Intermedio,Transito
+-71.200327,-32.736479,2,Intermedio,Transito
+-71.227047,-32.827947,2,Intermedio,Transito
+-71.247066,-32.879469,1,Terminal,Origen/Destino potencial
+-70.716823,-32.626142,2,Intermedio,Transito
+-70.725141,-32.75066,3,Interconexion potencial,Intercambio potencial
+-71.515949,-32.921991,1,Terminal,Origen/Destino potencial
+-71.628351,-33.038316,1,Terminal,Origen/Destino potencial
+-71.37466,-33.04276,1,Terminal,Origen/Destino potencial
+-71.180707,-32.995589,2,Intermedio,Transito
+-71.26574,-33.00194,2,Intermedio,Transito
+-71.40638,-33.316549,2,Intermedio,Transito
+-71.618262,-34.400108,2,Intermedio,Transito
+-70.740628,-34.17039,3,Interconexion potencial,Intercambio potencial
+-70.989279,-34.254029,2,Intermedio,Transito
+-71.244695,-34.38177,2,Intermedio,Transito
+-71.282899,-34.358619,2,Intermedio,Transito
+-70.872482,-34.401926,2,Intermedio,Transito
+-70.861691,-34.408868,2,Intermedio,Transito
+-71.515919,-35.305116,2,Intermedio,Transito
+-71.50993,-35.308786,1,Terminal,Origen/Destino potencial
+-71.486193,-35.537192,2,Intermedio,Transito
+-72.411891,-35.331817,3,Interconexion potencial,Intercambio potencial
+-71.598073,-35.845581,2,Intermedio,Transito
+-71.764978,-36.055517,2,Intermedio,Transito
+-71.822209,-36.141397,4,Interconexion potencial,Intercambio potencial
+-71.810194,-36.143066,2,Intermedio,Transito
+-72.315425,-35.967146,3,Interconexion potencial,Intercambio potencial
+-71.814855,-36.282906,2,Intermedio,Transito
+-72.540839,-36.282739,2,Intermedio,Transito
+-72.646974,-36.405926,2,Intermedio,Transito
+-72.666219,-36.430058,2,Intermedio,Transito
+-72.683454,-36.435024,2,Intermedio,Transito
+-72.702535,-36.468968,2,Intermedio,Transito
+-72.702283,-36.487649,2,Intermedio,Transito
+-72.103297,-36.606676,4,Interconexion potencial,Intercambio potencial
+-73.104048,-36.841442,2,Intermedio,Transito
+-73.145366,-37.029319,2,Intermedio,Transito
+-73.317566,-37.246272,2,Intermedio,Transito
+-73.399071,-37.800413,1,Terminal,Origen/Destino potencial
+-72.714937,-37.279479,2,Intermedio,Transito
+-72.509933,-35.484507,2,Intermedio,Transito
+-72.52517,-35.510907,2,Intermedio,Transito
+-72.589372,-35.59902,2,Intermedio,Transito
+-72.591379,-37.638835,1,Terminal,Origen/Destino potencial
+-72.589807,-37.668685,2,Intermedio,Transito
+-72.583205,-37.671715,2,Intermedio,Transito
+-72.43503,-38.534329,3,Interconexion potencial,Intercambio potencial
+-72.393154,-38.407851,2,Intermedio,Transito
+-72.377794,-38.421153,3,Interconexion potencial,Intercambio potencial
+-73.176784,-38.718744,1,Terminal,Origen/Destino potencial
+-73.165223,-38.711542,1,Terminal,Origen/Destino potencial
+-71.938145,-39.289488,2,Intermedio,Transito
+-71.97779,-39.273114,2,Intermedio,Transito
+-72.743172,-39.467963,2,Intermedio,Transito
+-72.333408,-39.642002,2,Intermedio,Transito
+-73.078965,-40.28776,2,Intermedio,Transito
+-72.956801,-40.333669,2,Intermedio,Transito
+-73.135887,-40.573725,3,Interconexion potencial,Intercambio potencial
+-73.041698,-41.498576,2,Intermedio,Transito
+-72.939613,-41.471818,3,Interconexion potencial,Intercambio potencial
+-72.939672,-41.315713,1,Terminal,Origen/Destino potencial
+-72.982736,-41.317832,2,Intermedio,Transito
+-73.772309,-42.623986,2,Intermedio,Transito
+-73.767729,-42.429282,3,Interconexion potencial,Intercambio potencial
+-73.774492,-42.452007,2,Intermedio,Transito
+-73.764318,-42.482357,2,Intermedio,Transito
+-70.683809,-33.205093,2,Intermedio,Transito
+-70.691212,-33.231775,1,Terminal,Origen/Destino potencial
+-70.872866,-33.286487,2,Intermedio,Transito
+-71.214564,-33.685514,3,Interconexion potencial,Intercambio potencial
+-71.261856,-32.563044,2,Intermedio,Transito
+-73.050317,-36.827014,2,Intermedio,Transito
+-73.165827,-40.802363,2,Intermedio,Transito
+-72.884368,-40.602694,2,Intermedio,Transito
+-72.719438,-40.627696,2,Intermedio,Transito
+-73.105691,-36.801695,2,Intermedio,Transito
+-73.112083,-36.779006,2,Intermedio,Transito
+-73.163499,-40.865165,2,Intermedio,Transito
+-72.351716,-37.470762,3,Interconexion potencial,Intercambio potencial
+-72.297292,-37.502794,2,Intermedio,Transito
+-72.234533,-37.52576,2,Intermedio,Transito
+-72.225245,-37.532664,1,Terminal,Origen/Destino potencial
+-70.713789,-33.627217,1,Terminal,Origen/Destino potencial
+-70.760647,-33.630562,2,Intermedio,Transito
+-70.857233,-33.735191,2,Intermedio,Transito
+-70.903704,-33.753825,2,Intermedio,Transito
+-70.806003,-33.765682,2,Intermedio,Transito
+-70.973279,-34.509361,2,Intermedio,Transito
+-70.963444,-34.553905,1,Terminal,Origen/Destino potencial
+-72.42735,-37.996608,2,Intermedio,Transito
+-72.801938,-38.622366,2,Intermedio,Transito
+-72.747747,-38.655019,2,Intermedio,Transito
+-72.689118,-38.679116,2,Intermedio,Transito
+-72.654177,-38.69805,2,Intermedio,Transito
+-71.550335,-39.410267,2,Intermedio,Transito
+-71.552141,-39.42175,1,Terminal,Origen/Destino potencial
+-71.57294,-39.386777,2,Intermedio,Transito
+-71.587351,-39.358997,2,Intermedio,Transito
+-73.014985,-39.585219,2,Intermedio,Transito
+-73.06319,-39.624386,2,Intermedio,Transito
+-73.082595,-39.662657,2,Intermedio,Transito
+-73.105923,-39.701741,2,Intermedio,Transito
+-73.107306,-39.723486,2,Intermedio,Transito
+-72.876902,-41.490982,2,Intermedio,Transito
+-70.965191,-34.231043,2,Intermedio,Transito
+-70.96257,-34.230152,2,Intermedio,Transito
+-73.158215,-40.912585,1,Terminal,Origen/Destino potencial
+-73.1582,-40.9126,1,Terminal,Origen/Destino potencial
+-73.181681,-39.086853,2,Intermedio,Transito
+-73.182323,-39.094267,2,Intermedio,Transito
+-73.189227,-39.12099,2,Intermedio,Transito
+-73.170523,-39.176769,2,Intermedio,Transito
+-72.680364,-39.23294,1,Terminal,Origen/Destino potencial
+-72.678437,-39.239531,1,Terminal,Origen/Destino potencial
+-71.998267,-39.575671,1,Terminal,Origen/Destino potencial
+-72.009426,-39.565337,2,Intermedio,Transito
+-72.054942,-39.538969,2,Intermedio,Transito
+-72.142682,-39.484098,2,Intermedio,Transito
+-72.168852,-39.473255,2,Intermedio,Transito
+-72.205297,-39.416905,2,Intermedio,Transito
+-72.211959,-39.359826,2,Intermedio,Transito
+-72.233634,-39.301583,2,Intermedio,Transito
+-72.680805,-38.258143,2,Intermedio,Transito
+-72.573397,-38.263185,2,Intermedio,Transito
+-72.479074,-38.246102,2,Intermedio,Transito
+-72.37271,-38.230592,2,Intermedio,Transito
+-72.339476,-38.233051,2,Intermedio,Transito
+-72.439311,-38.541874,2,Intermedio,Transito
+-72.458422,-38.54586,1,Terminal,Origen/Destino potencial
+-72.368309,-37.480152,2,Intermedio,Transito
+-72.381166,-37.42305,2,Intermedio,Transito
+-72.368193,-37.340954,2,Intermedio,Transito
+-72.22144,-37.066495,2,Intermedio,Transito
+-72.069243,-37.114355,2,Intermedio,Transito
+-72.172098,-35.532918,2,Intermedio,Transito
+-72.21727,-35.49497,2,Intermedio,Transito
+-71.9833,-34.988444,2,Intermedio,Transito
+-71.830871,-34.968989,2,Intermedio,Transito
+-71.740989,-35.006851,2,Intermedio,Transito
+-71.725816,-35.024211,2,Intermedio,Transito
+-71.713654,-35.042705,2,Intermedio,Transito
+-71.657478,-34.967944,2,Intermedio,Transito
+-71.689446,-34.871927,2,Intermedio,Transito
+-71.699755,-34.785216,2,Intermedio,Transito
+-71.6452,-34.728785,2,Intermedio,Transito
+-71.502617,-34.674221,2,Intermedio,Transito
+-71.368721,-34.641637,2,Intermedio,Transito
+-72.591941,-37.677665,2,Intermedio,Transito
+-72.806436,-38.040792,1,Terminal,Origen/Destino potencial
+-72.79905,-38.091858,1,Terminal,Origen/Destino potencial
+-71.787536,-36.08308,2,Intermedio,Transito
+-73.140049,-37.055895,2,Intermedio,Transito
+-73.161291,-37.083205,2,Intermedio,Transito
+-73.417311,-37.525859,2,Intermedio,Transito
+-73.413011,-37.552658,2,Intermedio,Transito
+-73.415591,-37.621079,3,Interconexion potencial,Intercambio potencial
+-73.660346,-37.620943,2,Intermedio,Transito
+-73.388416,-37.688757,2,Intermedio,Transito
+-73.373366,-37.748621,2,Intermedio,Transito
+-70.787319,-33.278217,2,Intermedio,Transito
+-70.86912,-33.281371,2,Intermedio,Transito
+-71.696795,-33.194086,1,Terminal,Origen/Destino potencial
+-71.684432,-33.184143,1,Terminal,Origen/Destino potencial
+-109.439199,-27.159656,2,Intermedio,Transito
+-109.409337,-27.175654,1,Terminal,Origen/Destino potencial
+-109.43671,-27.155513,3,Interconexion potencial,Intercambio potencial
+-67.635844,-54.936902,1,Terminal,Origen/Destino potencial
+-67.616899,-54.937317,2,Intermedio,Transito
+-71.388619,-34.565974,1,Terminal,Origen/Destino potencial
+-71.378826,-34.579194,2,Intermedio,Transito
+-71.794008,-35.625891,1,Terminal,Origen/Destino potencial
+-71.835189,-35.691441,2,Intermedio,Transito
+-71.934649,-35.743907,2,Intermedio,Transito
+-72.005693,-35.798748,2,Intermedio,Transito
+-72.061484,-35.851144,2,Intermedio,Transito
+-72.145773,-35.901424,2,Intermedio,Transito
+-72.222917,-35.964473,2,Intermedio,Transito
+-72.312664,-35.961939,2,Intermedio,Transito
+-73.076962,-36.843147,2,Intermedio,Transito
+-73.05569,-36.906592,2,Intermedio,Transito
+-73.032169,-36.969792,2,Intermedio,Transito
+-72.9828,-37.029992,2,Intermedio,Transito
+-72.990587,-37.092001,2,Intermedio,Transito
+-72.986974,-37.111976,1,Terminal,Origen/Destino potencial
+-72.590817,-37.600557,1,Terminal,Origen/Destino potencial
+-69.593496,-22.822696,2,Intermedio,Transito
+-69.595394,-22.898239,2,Intermedio,Transito
+-72.690037,-37.859214,2,Intermedio,Transito
+-72.711792,-37.924782,2,Intermedio,Transito
+-72.823133,-37.957386,2,Intermedio,Transito
+-72.833408,-37.981687,2,Intermedio,Transito
+-72.944027,-39.655659,3,Interconexion potencial,Intercambio potencial
+-72.948683,-39.666783,2,Intermedio,Transito
+-73.235425,-39.823313,2,Intermedio,Transito
+-73.023339,-39.808761,2,Intermedio,Transito
+-72.818316,-39.86276,2,Intermedio,Transito
+-72.878362,-40.134998,2,Intermedio,Transito
+-72.896745,-40.149542,1,Terminal,Origen/Destino potencial
+-72.957754,-40.340101,2,Intermedio,Transito
+-73.15788,-40.57404,2,Intermedio,Transito
+-73.249714,-40.574101,2,Intermedio,Transito
+-73.290654,-40.60452,1,Terminal,Origen/Destino potencial
+-73.186538,-41.711054,2,Intermedio,Transito
+-73.349817,-41.698109,2,Intermedio,Transito
+-73.459954,-41.792502,1,Terminal,Origen/Destino potencial
+-73.615206,-41.866315,1,Terminal,Origen/Destino potencial
+-73.82649,-41.866315,2,Intermedio,Transito
+-73.796306,-41.878509,1,Terminal,Origen/Destino potencial
+-73.827132,-41.991374,2,Intermedio,Transito
+-73.822195,-42.04797,2,Intermedio,Transito
+-73.760865,-42.0985,2,Intermedio,Transito
+-73.719202,-42.144585,3,Interconexion potencial,Intercambio potencial
+-73.623595,-42.167675,2,Intermedio,Transito
+-73.522288,-42.151846,2,Intermedio,Transito
+-73.658956,-42.988324,2,Intermedio,Transito
+-73.63961,-43.041091,2,Intermedio,Transito
+-70.321907,-18.478169,3,Interconexion potencial,Intercambio potencial
+-70.295084,-18.439008,2,Intermedio,Transito
+-73.473079,-42.144764,2,Intermedio,Transito
+-73.493951,-42.152382,1,Terminal,Origen/Destino potencial
+-73.429209,-42.267969,2,Intermedio,Transito
+-73.600195,-42.333992,2,Intermedio,Transito
+-73.594656,-42.439176,1,Terminal,Origen/Destino potencial
+-73.601961,-42.439472,2,Intermedio,Transito
+-73.48797,-42.472461,2,Intermedio,Transito
+-73.47906,-42.477198,1,Terminal,Origen/Destino potencial
+-73.655344,-42.380795,2,Intermedio,Transito
+-73.727029,-42.419919,2,Intermedio,Transito
+-73.735378,-42.650728,2,Intermedio,Transito
+-73.684162,-42.711482,2,Intermedio,Transito
+-73.61055,-42.768552,2,Intermedio,Transito
+-73.519117,-42.804902,2,Intermedio,Transito
+-73.474645,-42.855649,2,Intermedio,Transito
+-73.477053,-42.890182,2,Intermedio,Transito
+-73.800641,-42.666224,2,Intermedio,Transito
+-73.789082,-42.721862,2,Intermedio,Transito
+-73.787797,-42.782341,2,Intermedio,Transito
+-73.750389,-42.835991,2,Intermedio,Transito
+-73.696765,-42.881536,2,Intermedio,Transito
+-73.669793,-42.935688,2,Intermedio,Transito
+-73.611915,-43.095689,2,Intermedio,Transito
+-73.719644,-42.20155,2,Intermedio,Transito
+-73.708566,-42.25166,2,Intermedio,Transito
+-73.710653,-42.3047,2,Intermedio,Transito
+-73.719564,-42.361965,2,Intermedio,Transito
+-73.77977,-42.413193,2,Intermedio,Transito
+-72.802904,-39.863376,2,Intermedio,Transito
+-72.901722,-39.743704,2,Intermedio,Transito
+-72.297252,-38.885403,1,Terminal,Origen/Destino potencial
+-72.256151,-38.894775,1,Terminal,Origen/Destino potencial
+-72.233995,-38.668244,2,Intermedio,Transito
+-72.341644,-38.684225,2,Intermedio,Transito
+-72.497618,-38.671754,1,Terminal,Origen/Destino potencial
+-72.158777,-37.681286,2,Intermedio,Transito
+-72.056025,-37.678236,2,Intermedio,Transito
+-71.999833,-37.67201,3,Interconexion potencial,Intercambio potencial
+-72.004722,-37.684105,2,Intermedio,Transito
+-71.920361,-37.688147,2,Intermedio,Transito
+-71.828686,-37.70752,2,Intermedio,Transito
+-71.750178,-37.761102,2,Intermedio,Transito
+-71.674478,-37.810206,2,Intermedio,Transito
+-71.656256,-37.868974,2,Intermedio,Transito
+-72.348306,-37.469743,2,Intermedio,Transito
+-72.126105,-37.429211,2,Intermedio,Transito
+-72.017252,-37.413145,1,Terminal,Origen/Destino potencial
+-71.843136,-37.351272,1,Terminal,Origen/Destino potencial
+-71.732517,-37.327977,1,Terminal,Origen/Destino potencial
+-71.665728,-37.328615,2,Intermedio,Transito
+-71.622219,-37.334615,1,Terminal,Origen/Destino potencial
+-71.717827,-37.28724,1,Terminal,Origen/Destino potencial
+-71.728102,-37.286538,1,Terminal,Origen/Destino potencial
+-72.072642,-37.165795,2,Intermedio,Transito
+-72.178083,-37.13681,2,Intermedio,Transito
+-72.234597,-37.121706,2,Intermedio,Transito
+-72.334941,-37.064077,2,Intermedio,Transito
+-72.244069,-36.609366,2,Intermedio,Transito
+-72.34048,-36.615294,2,Intermedio,Transito
+-72.401569,-36.647826,1,Terminal,Origen/Destino potencial
+-72.944589,-36.622864,2,Intermedio,Transito
+-72.777456,-36.624153,2,Intermedio,Transito
+-72.753213,-36.561763,2,Intermedio,Transito
+-72.709383,-36.497968,2,Intermedio,Transito
+-72.706333,-36.488223,2,Intermedio,Transito
+-72.224763,-35.965967,1,Terminal,Origen/Destino potencial
+-72.020905,-36.078029,2,Intermedio,Transito
+-71.837878,-36.133546,2,Intermedio,Transito
+-71.799025,-35.395945,2,Intermedio,Transito
+-72.591459,-37.560287,1,Terminal,Origen/Destino potencial
+-72.490353,-37.50414,2,Intermedio,Transito
+-72.460972,-37.480255,1,Terminal,Origen/Destino potencial
+-72.718399,-37.275247,3,Interconexion potencial,Intercambio potencial
+-72.620639,-37.239708,2,Intermedio,Transito
+-72.540445,-37.239133,1,Terminal,Origen/Destino potencial
+-70.869601,-53.124623,2,Intermedio,Transito
+-70.838455,-53.034449,2,Intermedio,Transito
+-70.842468,-52.948729,2,Intermedio,Transito
+-70.937193,-52.878926,2,Intermedio,Transito
+-71.071091,-52.708449,2,Intermedio,Transito
+-71.141894,-52.626372,2,Intermedio,Transito
+-71.200174,-52.5823,2,Intermedio,Transito
+-71.243361,-52.536962,2,Intermedio,Transito
+-71.288315,-52.502917,2,Intermedio,Transito
+-71.333109,-52.472708,2,Intermedio,Transito
+-71.391629,-52.443701,2,Intermedio,Transito
+-71.412983,-52.42716,2,Intermedio,Transito
+-71.413063,-52.41164,2,Intermedio,Transito
+-71.416515,-52.371959,2,Intermedio,Transito
+-71.391308,-52.324933,2,Intermedio,Transito
+-71.350288,-52.288587,2,Intermedio,Transito
+-71.336882,-52.241964,2,Intermedio,Transito
+-71.351091,-52.193766,2,Intermedio,Transito
+-71.365701,-52.152659,2,Intermedio,Transito
+-71.362891,-52.109837,2,Intermedio,Transito
+-71.395563,-52.063371,2,Intermedio,Transito
+-71.459221,-52.051871,2,Intermedio,Transito
+-71.509232,-52.049847,2,Intermedio,Transito
+-71.601067,-52.050785,2,Intermedio,Transito
+-70.987431,-34.604934,2,Intermedio,Transito
+-70.989882,-34.583393,2,Intermedio,Transito
+-71.672752,-52.03617,2,Intermedio,Transito
+-71.752305,-52.029206,2,Intermedio,Transito
+-71.82399,-52.028515,2,Intermedio,Transito
+-71.921525,-52.03775,2,Intermedio,Transito
+-71.976111,-52.018092,2,Intermedio,Transito
+-72.020504,-51.988688,2,Intermedio,Transito
+-72.076455,-51.947837,2,Intermedio,Transito
+-72.103026,-51.898974,2,Intermedio,Transito
+-72.125262,-51.849611,2,Intermedio,Transito
+-72.16556,-51.806598,2,Intermedio,Transito
+-72.226248,-51.76081,2,Intermedio,Transito
+-72.296409,-51.717016,2,Intermedio,Transito
+-72.409034,-51.689206,2,Intermedio,Transito
+-72.473897,-51.711445,2,Intermedio,Transito
+-72.50689,-51.720348,1,Terminal,Origen/Destino potencial
+-68.931475,-52.256955,1,Terminal,Origen/Destino potencial
+-68.962468,-52.289962,1,Terminal,Origen/Destino potencial
+-70.379282,-53.294595,2,Intermedio,Transito
+-70.436357,-53.303974,1,Terminal,Origen/Destino potencial
+-72.103668,-36.82008,3,Interconexion potencial,Intercambio potencial
+-72.093152,-36.866848,2,Intermedio,Transito
+-72.084884,-36.923151,2,Intermedio,Transito
+-72.099093,-36.971972,2,Intermedio,Transito
+-72.835616,-36.865821,2,Intermedio,Transito
+-72.765295,-36.930916,2,Intermedio,Transito
+-72.655238,-36.973832,2,Intermedio,Transito
+-72.561958,-37.000443,2,Intermedio,Transito
+-72.451821,-37.026082,2,Intermedio,Transito
+-72.024187,-37.120266,2,Intermedio,Transito
+-71.943279,-37.233637,2,Intermedio,Transito
+-71.988554,-37.187925,2,Intermedio,Transito
+-70.840221,-28.894999,2,Intermedio,Transito
+-70.816459,-28.849869,2,Intermedio,Transito
+-72.010991,-37.134731,2,Intermedio,Transito
+-72.002482,-37.063148,2,Intermedio,Transito
+-72.076174,-37.006308,2,Intermedio,Transito
+-72.126627,-36.757978,2,Intermedio,Transito
+-72.147418,-36.695761,2,Intermedio,Transito
+-72.126065,-36.634525,2,Intermedio,Transito
+-71.273625,-34.847727,1,Terminal,Origen/Destino potencial
+-71.265036,-34.854248,1,Terminal,Origen/Destino potencial
+-71.51144,-32.152455,1,Terminal,Origen/Destino potencial
+-71.528057,-32.141234,1,Terminal,Origen/Destino potencial
+-71.516176,-32.14103,1,Terminal,Origen/Destino potencial
+-71.492254,-31.910177,2,Intermedio,Transito
+-71.506222,-31.911199,2,Intermedio,Transito
+-71.127244,-31.715695,2,Intermedio,Transito
+-71.031235,-31.777952,2,Intermedio,Transito
+-70.976086,-31.774745,2,Intermedio,Transito
+-70.964607,-31.7815,2,Intermedio,Transito
+-70.871086,-31.828505,1,Terminal,Origen/Destino potencial
+-71.046768,-31.099217,2,Intermedio,Transito
+-71.140088,-31.651209,2,Intermedio,Transito
+-71.535402,-31.578097,2,Intermedio,Transito
+-71.554186,-31.516048,2,Intermedio,Transito
+-71.569278,-31.464913,2,Intermedio,Transito
+-71.566067,-31.446322,2,Intermedio,Transito
+-71.565184,-31.44639,1,Terminal,Origen/Destino potencial
+-71.459462,-31.405427,2,Intermedio,Transito
+-70.898821,-28.955353,2,Intermedio,Transito
+-71.25163,-31.359443,2,Intermedio,Transito
+-71.20491,-31.428034,2,Intermedio,Transito
+-71.124876,-31.483433,2,Intermedio,Transito
+-71.099268,-31.540099,2,Intermedio,Transito
+-71.124153,-31.604046,2,Intermedio,Transito
+-71.158471,-31.628383,2,Intermedio,Transito
+-71.19616,-31.292516,2,Intermedio,Transito
+-71.106733,-31.249152,2,Intermedio,Transito
+-71.030874,-31.189701,2,Intermedio,Transito
+-71.127525,-31.069552,2,Intermedio,Transito
+-71.104486,-31.135332,2,Intermedio,Transito
+-71.049257,-31.028804,2,Intermedio,Transito
+-71.063144,-30.962331,2,Intermedio,Transito
+-70.710376,-30.037026,2,Intermedio,Transito
+-70.604333,-30.014507,2,Intermedio,Transito
+-71.016745,-30.89781,2,Intermedio,Transito
+-70.998041,-30.875007,2,Intermedio,Transito
+-70.974681,-30.832487,2,Intermedio,Transito
+-70.943856,-30.767982,3,Interconexion potencial,Intercambio potencial
+-70.93936,-30.769085,1,Terminal,Origen/Destino potencial
+-70.958385,-30.69836,2,Intermedio,Transito
+-71.256366,-30.835761,2,Intermedio,Transito
+-71.192628,-30.886271,2,Intermedio,Transito
+-71.188775,-30.948047,2,Intermedio,Transito
+-71.173442,-31.01164,2,Intermedio,Transito
+-71.30702,-29.672732,2,Intermedio,Transito
+-71.012531,-30.002551,2,Intermedio,Transito
+-70.907772,-29.984683,2,Intermedio,Transito
+-71.486434,-30.263317,2,Intermedio,Transito
+-71.493739,-30.257077,1,Terminal,Origen/Destino potencial
+-70.603851,-30.013951,2,Intermedio,Transito
+-70.552796,-29.976408,2,Intermedio,Transito
+-70.516632,-30.027644,2,Intermedio,Transito
+-70.495921,-30.082082,2,Intermedio,Transito
+-70.494155,-30.098266,2,Intermedio,Transito
+-70.49568,-30.124029,1,Terminal,Origen/Destino potencial
+-70.852422,-30.094515,1,Terminal,Origen/Destino potencial
+-71.150885,-29.935825,2,Intermedio,Transito
+-71.258132,-29.608124,2,Intermedio,Transito
+-71.243361,-29.546548,2,Intermedio,Transito
+-71.227708,-29.501494,3,Interconexion potencial,Intercambio potencial
+-71.20491,-29.461802,2,Intermedio,Transito
+-71.167903,-29.397828,2,Intermedio,Transito
+-71.139887,-29.367261,2,Intermedio,Transito
+-71.038098,-29.341722,2,Intermedio,Transito
+-71.036011,-29.272912,2,Intermedio,Transito
+-71.014498,-29.205807,2,Intermedio,Transito
+-70.947869,-29.136274,2,Intermedio,Transito
+-70.909418,-29.065993,2,Intermedio,Transito
+-70.909658,-28.994751,2,Intermedio,Transito
+-71.429921,-30.352927,2,Intermedio,Transito
+-71.472787,-30.470272,2,Intermedio,Transito
+-70.784791,-28.791212,2,Intermedio,Transito
+-70.764883,-28.720344,2,Intermedio,Transito
+-70.763036,-28.652176,2,Intermedio,Transito
+-70.771304,-28.608491,2,Intermedio,Transito
+-70.801889,-28.567467,2,Intermedio,Transito
+-70.82541,-28.560205,1,Terminal,Origen/Destino potencial
+-70.925994,-28.529459,1,Terminal,Origen/Destino potencial
+-71.028265,-28.517328,2,Intermedio,Transito
+-70.21251,-27.350729,2,Intermedio,Transito
+-70.163222,-27.316642,2,Intermedio,Transito
+-69.623292,-26.253743,1,Terminal,Origen/Destino potencial
+-69.983004,-26.518558,2,Intermedio,Transito
+-69.957798,-26.592734,2,Intermedio,Transito
+-69.942465,-26.663131,2,Intermedio,Transito
+-69.898314,-26.72904,2,Intermedio,Transito
+-69.892936,-26.801216,2,Intermedio,Transito
+-69.90883,-26.871556,2,Intermedio,Transito
+-69.933715,-26.935769,2,Intermedio,Transito
+-69.900722,-26.995225,2,Intermedio,Transito
+-69.922316,-27.052791,2,Intermedio,Transito
+-69.96133,-27.113828,2,Intermedio,Transito
+-70.017121,-27.176475,2,Intermedio,Transito
+-70.050114,-27.247865,2,Intermedio,Transito
+-70.138336,-27.289179,2,Intermedio,Transito
+-70.462166,-27.637912,2,Intermedio,Transito
+-70.479826,-27.707938,2,Intermedio,Transito
+-70.491225,-27.775292,2,Intermedio,Transito
+-70.513542,-27.836995,2,Intermedio,Transito
+-70.534413,-27.903843,2,Intermedio,Transito
+-70.557532,-27.97228,2,Intermedio,Transito
+-70.578725,-28.034793,2,Intermedio,Transito
+-70.612521,-28.105342,2,Intermedio,Transito
+-70.637647,-28.150934,2,Intermedio,Transito
+-70.826012,-27.072378,2,Intermedio,Transito
+-70.849854,-27.101966,1,Terminal,Origen/Destino potencial
+-69.904744,-24.975379,2,Intermedio,Transito
+-69.891146,-25.045017,2,Intermedio,Transito
+-70.318112,-26.421979,1,Terminal,Origen/Destino potencial
+-70.215842,-26.426005,2,Intermedio,Transito
+-70.133239,-26.411051,2,Intermedio,Transito
+-70.056616,-26.393975,2,Intermedio,Transito
+-70.024175,-26.377665,1,Terminal,Origen/Destino potencial
+-70.008813,-26.312296,2,Intermedio,Transito
+-72.41648,-38.442158,1,Terminal,Origen/Destino potencial
+-72.382845,-38.425094,2,Intermedio,Transito
+-72.348206,-43.73068,2,Intermedio,Transito
+-72.359525,-43.785239,2,Intermedio,Transito
+-69.988824,-26.249819,2,Intermedio,Transito
+-69.992597,-26.177512,2,Intermedio,Transito
+-70.015154,-26.113378,2,Intermedio,Transito
+-70.019569,-26.057646,2,Intermedio,Transito
+-69.953262,-25.995538,2,Intermedio,Transito
+-69.906703,-25.939751,2,Intermedio,Transito
+-69.858538,-25.868624,2,Intermedio,Transito
+-69.85621,-25.836766,1,Terminal,Origen/Destino potencial
+-69.963939,-25.397976,2,Intermedio,Transito
+-70.015235,-25.427994,2,Intermedio,Transito
+-70.444786,-25.457823,2,Intermedio,Transito
+-70.474086,-25.413747,2,Intermedio,Transito
+-70.447074,-27.46347,1,Terminal,Origen/Destino potencial
+-70.449322,-27.496657,2,Intermedio,Transito
+-70.668071,-28.206269,2,Intermedio,Transito
+-70.696649,-28.273241,2,Intermedio,Transito
+-70.705238,-28.336779,2,Intermedio,Transito
+-70.716958,-28.395125,2,Intermedio,Transito
+-70.724023,-28.459014,2,Intermedio,Transito
+-70.743449,-28.519902,2,Intermedio,Transito
+-71.250265,-29.910222,2,Intermedio,Transito
+-71.262306,-29.981832,2,Intermedio,Transito
+-71.252192,-30.046476,2,Intermedio,Transito
+-71.235495,-30.109134,2,Intermedio,Transito
+-71.239267,-30.175431,2,Intermedio,Transito
+-71.248981,-30.203949,1,Terminal,Origen/Destino potencial
+-71.42976,-30.197219,1,Terminal,Origen/Destino potencial
+-71.441159,-30.237799,2,Intermedio,Transito
+-71.497994,-30.60399,2,Intermedio,Transito
+-71.530425,-30.665532,2,Intermedio,Transito
+-71.493739,-30.71765,2,Intermedio,Transito
+-71.551698,-30.774982,2,Intermedio,Transito
+-71.594163,-30.839449,2,Intermedio,Transito
+-71.620814,-30.897741,2,Intermedio,Transito
+-71.640723,-30.945947,2,Intermedio,Transito
+-71.630608,-30.99578,2,Intermedio,Transito
+-71.611663,-31.057347,2,Intermedio,Transito
+-71.593521,-31.115781,2,Intermedio,Transito
+-71.608131,-31.179056,2,Intermedio,Transito
+-72.355029,-43.810617,2,Intermedio,Transito
+-71.582202,-31.238102,2,Intermedio,Transito
+-71.592558,-31.300678,2,Intermedio,Transito
+-71.589347,-31.363487,2,Intermedio,Transito
+-71.566709,-31.430226,2,Intermedio,Transito
+-71.524063,-31.692952,2,Intermedio,Transito
+-71.494361,-31.80272,2,Intermedio,Transito
+-71.493057,-31.877054,2,Intermedio,Transito
+-71.069225,-33.503921,1,Terminal,Origen/Destino potencial
+-71.113055,-33.513358,2,Intermedio,Transito
+-71.125417,-33.517776,2,Intermedio,Transito
+-71.211151,-33.568959,2,Intermedio,Transito
+-71.21081,-33.716419,1,Terminal,Origen/Destino potencial
+-71.191323,-33.755104,1,Terminal,Origen/Destino potencial
+-70.951141,-33.844292,1,Terminal,Origen/Destino potencial
+-70.880579,-33.874823,1,Terminal,Origen/Destino potencial
+-73.586809,-41.636883,2,Intermedio,Transito
+-73.64252,-41.696431,2,Intermedio,Transito
+-73.699675,-41.739393,1,Terminal,Origen/Destino potencial
+-73.094763,-41.120736,1,Terminal,Origen/Destino potencial
+-73.064014,-41.11541,1,Terminal,Origen/Destino potencial
+-73.055348,-41.118196,2,Intermedio,Transito
+-73.046438,-41.109245,1,Terminal,Origen/Destino potencial
+-73.027734,-41.131499,2,Intermedio,Transito
+-72.662723,-41.971741,2,Intermedio,Transito
+-72.556439,-41.969712,2,Intermedio,Transito
+-72.475121,-41.968101,2,Intermedio,Transito
+-72.704185,-42.918671,2,Intermedio,Transito
+-72.614839,-42.97561,2,Intermedio,Transito
+-72.510081,-43.006084,2,Intermedio,Transito
+-72.473074,-43.05825,2,Intermedio,Transito
+-72.455092,-43.116817,2,Intermedio,Transito
+-72.429244,-43.167717,2,Intermedio,Transito
+-72.435987,-43.174098,2,Intermedio,Transito
+-72.451319,-43.207868,2,Intermedio,Transito
+-72.422099,-43.259511,2,Intermedio,Transito
+-72.415677,-43.310818,2,Intermedio,Transito
+-72.383808,-43.368268,2,Intermedio,Transito
+-72.367914,-43.409978,3,Interconexion potencial,Intercambio potencial
+-72.283063,-43.382505,2,Intermedio,Transito
+-71.067539,-32.336477,2,Intermedio,Transito
+-71.033663,-32.297537,2,Intermedio,Transito
+-70.70574,-34.039653,3,Interconexion potencial,Intercambio potencial
+-70.72613,-34.068052,2,Intermedio,Transito
+-72.173247,-43.432076,2,Intermedio,Transito
+-72.117375,-43.488363,2,Intermedio,Transito
+-72.092892,-43.43126,2,Intermedio,Transito
+-72.084944,-43.376262,2,Intermedio,Transito
+-71.996401,-43.319229,2,Intermedio,Transito
+-71.950002,-43.264071,2,Intermedio,Transito
+-71.912835,-43.205235,2,Intermedio,Transito
+-71.804985,-43.615601,2,Intermedio,Transito
+-71.894412,-43.619843,2,Intermedio,Transito
+-71.997886,-43.621761,2,Intermedio,Transito
+-72.04862,-43.568041,2,Intermedio,Transito
+-72.086429,-43.512586,2,Intermedio,Transito
+-72.117536,-43.488188,1,Terminal,Origen/Destino potencial
+-72.354468,-43.462906,2,Intermedio,Transito
+-72.342587,-43.518466,2,Intermedio,Transito
+-72.343149,-43.571182,2,Intermedio,Transito
+-72.343951,-43.624841,2,Intermedio,Transito
+-72.334238,-43.678335,2,Intermedio,Transito
+-72.367231,-43.863309,2,Intermedio,Transito
+-72.37269,-43.893977,2,Intermedio,Transito
+-72.396371,-43.953068,2,Intermedio,Transito
+-72.406887,-43.974967,1,Terminal,Origen/Destino potencial
+-70.984924,-32.84438,1,Terminal,Origen/Destino potencial
+-70.952666,-32.842188,2,Intermedio,Transito
+-71.162745,-32.77816,1,Terminal,Origen/Destino potencial
+-71.169649,-32.738803,2,Intermedio,Transito
+-71.184741,-32.723204,1,Terminal,Origen/Destino potencial
+-71.201315,-32.730472,1,Terminal,Origen/Destino potencial
+-71.205291,-32.733266,1,Terminal,Origen/Destino potencial
+-70.625866,-32.854799,2,Intermedio,Transito
+-70.949455,-32.446831,2,Intermedio,Transito
+-71.053491,-32.420136,2,Intermedio,Transito
+-70.60652,-32.753927,2,Intermedio,Transito
+-70.65035,-32.735765,2,Intermedio,Transito
+-70.656933,-32.747041,2,Intermedio,Transito
+-70.672346,-32.741639,1,Terminal,Origen/Destino potencial
+-70.716898,-32.595134,2,Intermedio,Transito
+-70.699559,-32.542366,2,Intermedio,Transito
+-69.624877,-20.617153,1,Terminal,Origen/Destino potencial
+-69.678581,-20.51208,2,Intermedio,Transito
+-69.729315,-20.400464,2,Intermedio,Transito
+-69.725703,-20.326711,2,Intermedio,Transito
+-70.742104,-32.494509,2,Intermedio,Transito
+-70.826795,-32.541215,2,Intermedio,Transito
+-70.922964,-32.51421,2,Intermedio,Transito
+-70.950257,-32.455231,2,Intermedio,Transito
+-70.94512,-32.259598,2,Intermedio,Transito
+-70.929386,-32.251655,2,Intermedio,Transito
+-71.397871,-32.496879,2,Intermedio,Transito
+-71.449568,-32.506425,2,Intermedio,Transito
+-71.466024,-32.539388,2,Intermedio,Transito
+-69.765198,-20.156419,1,Terminal,Origen/Destino potencial
+-71.452538,-32.55414,2,Intermedio,Transito
+-71.43568,-32.596419,2,Intermedio,Transito
+-71.35091,-32.594525,2,Intermedio,Transito
+-71.273766,-32.56828,1,Terminal,Origen/Destino potencial
+-71.720335,-34.217938,2,Intermedio,Transito
+-71.726757,-34.123626,2,Intermedio,Transito
+-71.463937,-33.924096,1,Terminal,Origen/Destino potencial
+-70.743469,-33.728771,2,Intermedio,Transito
+-70.789708,-33.759676,1,Terminal,Origen/Destino potencial
+-70.712322,-33.980895,2,Intermedio,Transito
+-70.701566,-34.000597,3,Interconexion potencial,Intercambio potencial
+-70.268766,-18.517654,2,Intermedio,Transito
+-70.786416,-34.212693,2,Intermedio,Transito
+-70.768194,-34.21037,3,Interconexion potencial,Intercambio potencial
+-71.991865,-34.386175,2,Intermedio,Transito
+-71.886786,-34.358346,2,Intermedio,Transito
+-71.850822,-34.308298,2,Intermedio,Transito
+-69.583614,-22.352916,2,Intermedio,Transito
+-69.576815,-22.397218,2,Intermedio,Transito
+-71.736591,-33.941512,2,Intermedio,Transito
+-71.687222,-33.885753,2,Intermedio,Transito
+-71.638495,-33.82082,2,Intermedio,Transito
+-71.563037,-33.755638,2,Intermedio,Transito
+-71.589447,-33.693546,2,Intermedio,Transito
+-71.611041,-33.645176,2,Intermedio,Transito
+-71.721098,-34.009713,2,Intermedio,Transito
+-71.738678,-33.947106,2,Intermedio,Transito
+-71.74783,-34.331437,1,Terminal,Origen/Destino potencial
+-71.694728,-45.910984,2,Intermedio,Transito
+-71.700588,-45.908918,1,Terminal,Origen/Destino potencial
+-71.803661,-45.87014,2,Intermedio,Transito
+-70.249949,-18.549042,1,Terminal,Origen/Destino potencial
+-72.06905,-45.555688,2,Intermedio,Transito
+-72.109107,-45.508846,2,Intermedio,Transito
+-72.025782,-45.479979,2,Intermedio,Transito
+-72.008844,-45.426538,2,Intermedio,Transito
+-71.99624,-45.372089,2,Intermedio,Transito
+-72.04569,-45.321764,2,Intermedio,Transito
+-69.568593,-22.450054,2,Intermedio,Transito
+-72.15374,-45.284951,2,Intermedio,Transito
+-72.244451,-45.256591,3,Interconexion potencial,Intercambio potencial
+-72.343992,-45.300594,2,Intermedio,Transito
+-72.420654,-45.330794,2,Intermedio,Transito
+-72.477489,-45.385171,2,Intermedio,Transito
+-72.493303,-45.399038,2,Intermedio,Transito
+-72.582328,-45.385678,2,Intermedio,Transito
+-72.686605,-45.401237,3,Interconexion potencial,Intercambio potencial
+-72.780206,-45.447155,2,Intermedio,Transito
+-72.817132,-45.464723,1,Terminal,Origen/Destino potencial
+-71.730851,-46.537711,2,Intermedio,Transito
+-71.748592,-46.540196,1,Terminal,Origen/Destino potencial
+-72.847672,-38.602565,3,Interconexion potencial,Intercambio potencial
+-72.847055,-38.607014,1,Terminal,Origen/Destino potencial
+-72.40179,-45.433806,2,Intermedio,Transito
+-72.313969,-45.465174,2,Intermedio,Transito
+-72.205036,-45.493317,2,Intermedio,Transito
+-72.146435,-45.49765,1,Terminal,Origen/Destino potencial
+-71.848374,-45.946886,2,Intermedio,Transito
+-69.56132,-22.49805,2,Intermedio,Transito
+-69.582666,-22.538362,2,Intermedio,Transito
+-71.959234,-46.003846,2,Intermedio,Transito
+-72.005151,-46.056403,2,Intermedio,Transito
+-72.061665,-46.109522,3,Interconexion potencial,Intercambio potencial
+-72.053476,-46.166759,2,Intermedio,Transito
+-71.97866,-46.222882,2,Intermedio,Transito
+-71.931298,-46.275451,2,Intermedio,Transito
+-71.671207,-46.56421,1,Terminal,Origen/Destino potencial
+-71.69834,-46.555102,1,Terminal,Origen/Destino potencial
+-72.607213,-47.229373,1,Terminal,Origen/Destino potencial
+-72.581606,-47.250629,2,Intermedio,Transito
+-71.947674,-46.281832,1,Terminal,Origen/Destino potencial
+-71.957588,-46.279197,1,Terminal,Origen/Destino potencial
+-72.161486,-46.120512,1,Terminal,Origen/Destino potencial
+-72.202106,-45.21196,2,Intermedio,Transito
+-72.146636,-45.172077,2,Intermedio,Transito
+-72.145793,-45.118458,2,Intermedio,Transito
+-69.611442,-22.683739,2,Intermedio,Transito
+-72.090082,-45.064847,2,Intermedio,Transito
+-72.139852,-45.014306,2,Intermedio,Transito
+-72.168912,-44.96071,2,Intermedio,Transito
+-72.184806,-44.906836,2,Intermedio,Transito
+-72.215231,-44.857067,2,Intermedio,Transito
+-72.204313,-44.803381,2,Intermedio,Transito
+-72.1946,-44.75546,2,Intermedio,Transito
+-72.210815,-44.747136,2,Intermedio,Transito
+-72.219726,-44.711663,2,Intermedio,Transito
+-72.268453,-44.659669,2,Intermedio,Transito
+-72.363418,-44.640024,2,Intermedio,Transito
+-72.44285,-44.070729,2,Intermedio,Transito
+-72.426916,-44.655787,2,Intermedio,Transito
+-72.513131,-44.689639,2,Intermedio,Transito
+-72.566915,-44.727235,2,Intermedio,Transito
+-72.613796,-44.756828,2,Intermedio,Transito
+-69.60077,-22.755714,2,Intermedio,Transito
+-72.656663,-44.520695,2,Intermedio,Transito
+-72.595172,-44.395788,2,Intermedio,Transito
+-72.570688,-44.350859,2,Intermedio,Transito
+-72.558928,-44.325051,2,Intermedio,Transito
+-72.528584,-44.269722,2,Intermedio,Transito
+-72.502976,-44.221877,2,Intermedio,Transito
+-72.493022,-44.173591,2,Intermedio,Transito
+-72.455293,-44.125611,2,Intermedio,Transito
+-72.112278,-45.750902,2,Intermedio,Transito
+-72.070294,-45.810021,2,Intermedio,Transito
+-72.062507,-45.85555,2,Intermedio,Transito
+-72.065478,-45.868463,1,Terminal,Origen/Destino potencial
+-70.133098,-20.200723,1,Terminal,Origen/Destino potencial
+-70.131975,-20.220084,1,Terminal,Origen/Destino potencial
+-70.007067,-20.24027,1,Terminal,Origen/Destino potencial
+-69.96123,-20.234094,1,Terminal,Origen/Destino potencial
+-69.881998,-20.21451,1,Terminal,Origen/Destino potencial
+-69.78912,-20.21353,2,Intermedio,Transito
+-69.775072,-20.32483,1,Terminal,Origen/Destino potencial
+-70.179699,-19.160579,1,Terminal,Origen/Destino potencial
+-70.039843,-19.048117,1,Terminal,Origen/Destino potencial
+-70.128159,-20.295576,2,Intermedio,Transito
+-70.169506,-20.367781,2,Intermedio,Transito
+-70.156936,-20.43395,2,Intermedio,Transito
+-70.161838,-20.495945,2,Intermedio,Transito
+-70.176938,-20.544812,1,Terminal,Origen/Destino potencial
+-70.973438,-33.521226,1,Terminal,Origen/Destino potencial
+-70.934384,-33.543632,1,Terminal,Origen/Destino potencial
+-71.566761,-33.559642,1,Terminal,Origen/Destino potencial
+-71.598384,-33.60028,2,Intermedio,Transito
+-71.651194,-33.350157,2,Intermedio,Transito
+-71.643209,-33.312507,1,Terminal,Origen/Destino potencial
+-71.082299,-34.290603,2,Intermedio,Transito
+-70.964346,-34.35387,2,Intermedio,Transito
+-71.191003,-34.859782,2,Intermedio,Transito
+-71.195904,-34.817216,2,Intermedio,Transito
+-71.22895,-34.787225,2,Intermedio,Transito
+-71.237963,-34.749298,2,Intermedio,Transito
+-71.273855,-34.727859,2,Intermedio,Transito
+-71.175191,-34.778004,1,Terminal,Origen/Destino potencial
+-71.135821,-34.768848,1,Terminal,Origen/Destino potencial
+-72.156211,-35.040766,2,Intermedio,Transito
+-72.191786,-35.105985,2,Intermedio,Transito
+-72.262305,-35.166757,2,Intermedio,Transito
+-72.280409,-35.216053,2,Intermedio,Transito
+-72.347055,-35.274162,2,Intermedio,Transito
+-72.385476,-35.318361,2,Intermedio,Transito
+-72.394805,-35.343128,2,Intermedio,Transito
+-70.440988,-23.450299,1,Terminal,Origen/Destino potencial
+-70.424703,-23.707085,2,Intermedio,Transito
+-70.456009,-23.757239,1,Terminal,Origen/Destino potencial
+-70.446443,-23.749641,1,Terminal,Origen/Destino potencial
+-70.39387,-23.255419,2,Intermedio,Transito
+-70.414978,-23.195192,2,Intermedio,Transito
+-70.316473,-23.775544,3,Interconexion potencial,Intercambio potencial
+-70.313706,-23.833988,2,Intermedio,Transito
+-70.406757,-23.796017,1,Terminal,Origen/Destino potencial
+-70.433004,-23.381089,2,Intermedio,Transito
+-70.419327,-23.311699,2,Intermedio,Transito
+-70.437114,-23.129413,2,Intermedio,Transito
+-70.44423,-23.108036,2,Intermedio,Transito
+-70.33102,-23.079966,1,Terminal,Origen/Destino potencial
+-70.318845,-23.017622,2,Intermedio,Transito
+-70.285325,-22.951538,2,Intermedio,Transito
+-70.272992,-22.912366,2,Intermedio,Transito
+-70.282004,-22.857303,2,Intermedio,Transito
+-70.294575,-22.78735,2,Intermedio,Transito
+-70.275759,-22.712402,1,Terminal,Origen/Destino potencial
+-69.56717,-22.969445,2,Intermedio,Transito
+-69.564878,-23.035957,2,Intermedio,Transito
+-69.608122,-23.105928,2,Intermedio,Transito
+-69.633025,-23.179786,2,Intermedio,Transito
+-69.239479,-22.828452,2,Intermedio,Transito
+-69.215841,-22.757536,2,Intermedio,Transito
+-69.183981,-22.685636,2,Intermedio,Transito
+-69.094172,-22.613989,2,Intermedio,Transito
+-69.026341,-22.568443,2,Intermedio,Transito
+-68.937243,-22.510101,2,Intermedio,Transito
+-68.92997,-22.482491,2,Intermedio,Transito
+-68.927442,-22.328749,1,Terminal,Origen/Destino potencial
+-69.609704,-22.695961,1,Terminal,Origen/Destino potencial
+-69.625712,-22.698509,1,Terminal,Origen/Destino potencial
+-69.723189,-23.246667,2,Intermedio,Transito
+-69.802168,-23.305782,2,Intermedio,Transito
+-69.867311,-23.347669,2,Intermedio,Transito
+-69.948818,-23.391502,2,Intermedio,Transito
+-70.026532,-23.439528,2,Intermedio,Transito
+-70.092307,-23.45106,2,Intermedio,Transito
+-70.199429,-23.499644,2,Intermedio,Transito
+-70.247654,-23.569589,2,Intermedio,Transito
+-70.421698,-23.69543,3,Interconexion potencial,Intercambio potencial
+-70.325525,-23.768128,2,Intermedio,Transito
+-70.319636,-23.774386,1,Terminal,Origen/Destino potencial
+-70.217217,-23.746783,2,Intermedio,Transito
+-69.888103,-23.841617,2,Intermedio,Transito
+-69.808413,-23.892008,2,Intermedio,Transito
+-69.714572,-23.952928,2,Intermedio,Transito
+-69.621759,-24.010786,2,Intermedio,Transito
+-69.523887,-24.066741,2,Intermedio,Transito
+-69.447043,-24.109972,2,Intermedio,Transito
+-69.337391,-24.15896,2,Intermedio,Transito
+-68.849134,-24.228477,2,Intermedio,Transito
+-68.813005,-24.221772,1,Terminal,Origen/Destino potencial
+-68.474008,-24.169202,1,Terminal,Origen/Destino potencial
+-68.37242,-24.225737,1,Terminal,Origen/Destino potencial
+-68.79162,-23.609618,1,Terminal,Origen/Destino potencial
+-68.837236,-23.547522,2,Intermedio,Transito
+-68.80838,-23.487718,2,Intermedio,Transito
+-68.791937,-23.423533,1,Terminal,Origen/Destino potencial
+-68.571565,-20.937582,1,Terminal,Origen/Destino potencial
+-68.58287,-20.915208,1,Terminal,Origen/Destino potencial
+-69.656465,-20.737831,1,Terminal,Origen/Destino potencial
+-69.695361,-20.813891,2,Intermedio,Transito
+-69.688246,-20.889986,2,Intermedio,Transito
+-70.301611,-23.908487,2,Intermedio,Transito
+-70.285562,-23.984569,2,Intermedio,Transito
+-70.264691,-24.047394,2,Intermedio,Transito
+-70.1918,-24.094024,2,Intermedio,Transito
+-70.151956,-24.158744,2,Intermedio,Transito
+-70.099541,-24.230784,2,Intermedio,Transito
+-70.003565,-24.290318,2,Intermedio,Transito
+-69.953048,-24.360124,2,Intermedio,Transito
+-69.903874,-24.433489,2,Intermedio,Transito
+-69.775802,-24.629977,2,Intermedio,Transito
+-69.779676,-24.699019,2,Intermedio,Transito
+-69.809243,-24.771325,2,Intermedio,Transito
+-69.871777,-24.837922,2,Intermedio,Transito
+-69.90672,-24.907996,2,Intermedio,Transito
+-69.874307,-25.115332,2,Intermedio,Transito
+-69.862053,-25.184175,2,Intermedio,Transito
+-69.872014,-25.254123,2,Intermedio,Transito
+-69.87407,-25.318957,2,Intermedio,Transito
+-69.926722,-25.372685,2,Intermedio,Transito
+-70.039536,-25.501336,2,Intermedio,Transito
+-70.122309,-25.562543,2,Intermedio,Transito
+-70.207058,-25.560546,2,Intermedio,Transito
+-70.302401,-25.544355,2,Intermedio,Transito
+-70.354025,-25.560403,2,Intermedio,Transito
+-70.386755,-25.54193,1,Terminal,Origen/Destino potencial
+-70.418694,-25.500266,2,Intermedio,Transito
+-70.722658,-30.042585,3,Interconexion potencial,Intercambio potencial
+-70.702904,-30.108371,2,Intermedio,Transito
+-70.664878,-30.173253,2,Intermedio,Transito
+-70.669226,-30.277288,2,Intermedio,Transito
+-71.149801,-30.535702,2,Intermedio,Transito
+-71.399002,-30.290805,2,Intermedio,Transito
+-71.38898,-30.221777,2,Intermedio,Transito
+-71.368723,-30.153294,2,Intermedio,Transito
+-71.36145,-30.086689,2,Intermedio,Transito
+-71.377182,-30.019629,2,Intermedio,Transito
+-71.338889,-29.97088,2,Intermedio,Transito
+-71.166495,-30.551907,1,Terminal,Origen/Destino potencial
+-71.218637,-30.609206,2,Intermedio,Transito
+-71.314806,-30.633094,2,Intermedio,Transito
+-71.410465,-30.614726,1,Terminal,Origen/Destino potencial
+-71.159617,-31.754657,1,Terminal,Origen/Destino potencial
+-71.156297,-31.802305,2,Intermedio,Transito
+-71.15266,-31.865911,2,Intermedio,Transito
+-71.134082,-31.932425,2,Intermedio,Transito
+-71.145624,-31.994264,2,Intermedio,Transito
+-71.28263,-35.117464,2,Intermedio,Transito
+-71.260889,-35.175255,2,Intermedio,Transito
+-71.254565,-35.20911,1,Terminal,Origen/Destino potencial
+-71.251244,-35.282391,1,Terminal,Origen/Destino potencial
+-71.259545,-35.28181,1,Terminal,Origen/Destino potencial
+-71.163491,-32.058273,2,Intermedio,Transito
+-71.167128,-32.086677,2,Intermedio,Transito
+-71.158985,-32.14781,2,Intermedio,Transito
+-71.155111,-32.160728,2,Intermedio,Transito
+-71.007986,-34.609098,2,Intermedio,Transito
+-71.14681,-32.223416,2,Intermedio,Transito
+-71.120405,-32.286997,2,Intermedio,Transito
+-71.068101,-32.349296,1,Terminal,Origen/Destino potencial
+-71.258574,-32.48872,1,Terminal,Origen/Destino potencial
+-70.824309,-33.120113,1,Terminal,Origen/Destino potencial
+-70.835799,-34.34829,1,Terminal,Origen/Destino potencial
+-70.856829,-34.403556,2,Intermedio,Transito
+-71.042929,-34.442945,2,Intermedio,Transito
+-71.384253,-34.311871,3,Interconexion potencial,Intercambio potencial
+-71.403825,-34.297036,1,Terminal,Origen/Destino potencial
+-71.283298,-34.357485,2,Intermedio,Transito
+-71.595467,-34.363702,2,Intermedio,Transito
+-71.617563,-34.395912,2,Intermedio,Transito
+-71.299153,-35.031541,2,Intermedio,Transito
+-71.296702,-35.274194,1,Terminal,Origen/Destino potencial
+-71.33457,-35.332713,2,Intermedio,Transito
+-71.342871,-35.363471,2,Intermedio,Transito
+-71.347852,-35.382423,1,Terminal,Origen/Destino potencial
+-71.51324,-35.390609,1,Terminal,Origen/Destino potencial
+-71.59285,-35.37082,2,Intermedio,Transito
+-71.53,-35.312717,2,Intermedio,Transito
+-71.198197,-34.712361,1,Terminal,Origen/Destino potencial
+-71.204601,-34.680707,2,Intermedio,Transito
+-71.58346,-35.849069,2,Intermedio,Transito
+-71.581738,-35.829069,2,Intermedio,Transito
+-71.586884,-35.79465,2,Intermedio,Transito
+-71.592266,-35.760982,2,Intermedio,Transito
+-71.588914,-35.750714,2,Intermedio,Transito
+-71.388596,-35.69763,2,Intermedio,Transito
+-71.395867,-35.659357,2,Intermedio,Transito
+-71.391665,-35.639638,2,Intermedio,Transito
+-71.392137,-35.639484,2,Intermedio,Transito
+-71.458233,-35.627704,2,Intermedio,Transito
+-71.519561,-35.618264,2,Intermedio,Transito
+-71.585421,-35.596308,2,Intermedio,Transito
+-71.651989,-35.577994,2,Intermedio,Transito
+-71.698789,-35.570521,1,Terminal,Origen/Destino potencial
+-73.08798,-41.426739,1,Terminal,Origen/Destino potencial
+-73.063232,-41.431348,1,Terminal,Origen/Destino potencial
+-73.164075,-40.904241,1,Terminal,Origen/Destino potencial
+-73.167711,-40.870977,2,Intermedio,Transito
+-73.174745,-40.841553,2,Intermedio,Transito
+-73.213364,-40.80547,2,Intermedio,Transito
+-73.21039,-40.788743,2,Intermedio,Transito
+-73.1679,-40.810921,1,Terminal,Origen/Destino potencial
+-72.968006,-40.755564,1,Terminal,Origen/Destino potencial
+-72.963569,-40.758138,1,Terminal,Origen/Destino potencial
+-72.96338,-40.759855,1,Terminal,Origen/Destino potencial
+-72.91919,-40.758889,2,Intermedio,Transito
+-72.863197,-40.779199,1,Terminal,Origen/Destino potencial
+-70.308962,-18.346778,2,Intermedio,Transito
+-70.314117,-18.310362,1,Terminal,Origen/Destino potencial
+-72.633608,-40.712169,1,Terminal,Origen/Destino potencial
+-72.603157,-40.686649,2,Intermedio,Transito
+-72.659836,-40.653282,2,Intermedio,Transito
+-72.816149,-40.00458,1,Terminal,Origen/Destino potencial
+-72.922117,-40.028586,2,Intermedio,Transito
+-72.965835,-40.006422,2,Intermedio,Transito
+-73.02754,-39.999913,2,Intermedio,Transito
+-73.079614,-39.979331,2,Intermedio,Transito
+-73.108319,-39.950094,2,Intermedio,Transito
+-73.126873,-39.927216,2,Intermedio,Transito
+-72.048981,-45.574122,2,Intermedio,Transito
+-72.00683,-45.570185,1,Terminal,Origen/Destino potencial
+-71.63825,-35.877762,2,Intermedio,Transito
+-71.655435,-35.914936,2,Intermedio,Transito
+-71.67956,-35.954309,2,Intermedio,Transito
+-71.708973,-35.987856,2,Intermedio,Transito
+-71.744806,-36.023337,2,Intermedio,Transito
+-71.76681,-36.058751,2,Intermedio,Transito
+-71.818976,-36.281262,2,Intermedio,Transito
+-71.830353,-36.306681,2,Intermedio,Transito
+-71.846217,-36.341067,2,Intermedio,Transito
+-71.892295,-36.370534,2,Intermedio,Transito
+-71.941914,-36.401738,2,Intermedio,Transito
+-71.76761,-36.589379,1,Terminal,Origen/Destino potencial
+-71.829268,-36.62076,2,Intermedio,Transito
+-71.838993,-36.627845,2,Intermedio,Transito
+-71.890831,-36.613939,2,Intermedio,Transito
+-71.954897,-36.604654,2,Intermedio,Transito
+-72.021088,-36.591767,2,Intermedio,Transito
+-72.069243,-36.590516,2,Intermedio,Transito
+-72.01174,-36.649893,2,Intermedio,Transito
+-71.952348,-36.671102,2,Intermedio,Transito
+-71.895364,-36.700632,2,Intermedio,Transito
+-71.884033,-36.706348,2,Intermedio,Transito
+-71.874638,-36.710625,2,Intermedio,Transito
+-71.512526,-36.912541,1,Terminal,Origen/Destino potencial
+-71.478062,-36.910389,1,Terminal,Origen/Destino potencial
+-71.489393,-36.914089,1,Terminal,Origen/Destino potencial
+-71.47471,-36.894231,1,Terminal,Origen/Destino potencial
+-71.822752,-36.740973,2,Intermedio,Transito
+-71.834508,-36.778985,2,Intermedio,Transito
+-71.851599,-36.815316,2,Intermedio,Transito
+-71.853298,-36.825029,2,Intermedio,Transito
+-71.916278,-36.819473,2,Intermedio,Transito
+-71.983224,-36.812405,2,Intermedio,Transito
+-72.023715,-36.802984,2,Intermedio,Transito
+-72.14798,-36.607948,2,Intermedio,Transito
+-72.111925,-36.605104,2,Intermedio,Transito
+-72.15937,-36.80254,2,Intermedio,Transito
+-72.225041,-36.782237,2,Intermedio,Transito
+-72.135717,-36.515121,2,Intermedio,Transito
+-72.197658,-36.509467,2,Intermedio,Transito
+-72.216071,-36.502484,2,Intermedio,Transito
+-72.275604,-36.478762,2,Intermedio,Transito
+-72.33967,-36.448766,2,Intermedio,Transito
+-72.392594,-36.415378,2,Intermedio,Transito
+-72.401045,-36.410591,1,Terminal,Origen/Destino potencial
+-72.483098,-36.395885,1,Terminal,Origen/Destino potencial
+-72.512062,-36.377471,1,Terminal,Origen/Destino potencial
+-73.120759,-36.720862,2,Intermedio,Transito
+-72.222562,-36.57594,1,Terminal,Origen/Destino potencial
+-72.168552,-36.605772,2,Intermedio,Transito
+-72.160483,-36.609847,1,Terminal,Origen/Destino potencial
+-70.299396,-18.391324,2,Intermedio,Transito
+-70.265346,-18.496927,2,Intermedio,Transito
+-70.20572,-18.509523,2,Intermedio,Transito
+-70.176262,-18.520322,1,Terminal,Origen/Destino potencial
+-69.55436,-18.204514,1,Terminal,Origen/Destino potencial
+-69.54855,-18.241978,2,Intermedio,Transito
+-69.58389,-18.280668,2,Intermedio,Transito
+-69.582551,-18.326501,2,Intermedio,Transito
+-69.638063,-18.372275,2,Intermedio,Transito
+-69.68158,-18.417942,2,Intermedio,Transito
+-69.741553,-18.437504,2,Intermedio,Transito
+-69.804697,-18.464162,2,Intermedio,Transito
+-69.8613,-18.479158,2,Intermedio,Transito
+-69.882855,-18.451252,1,Terminal,Origen/Destino potencial
+-69.786172,-20.259689,1,Terminal,Origen/Destino potencial
+-70.103103,-20.267106,2,Intermedio,Transito
+-70.09553,-20.274762,1,Terminal,Origen/Destino potencial
+-70.152421,-20.214002,2,Intermedio,Transito
+-70.131252,-20.204942,1,Terminal,Origen/Destino potencial
+-70.134422,-20.240623,2,Intermedio,Transito
+-69.342711,-20.501027,1,Terminal,Origen/Destino potencial
+-69.329269,-20.491133,1,Terminal,Origen/Destino potencial
+-69.664727,-22.339316,1,Terminal,Origen/Destino potencial
+-69.658481,-22.343995,2,Intermedio,Transito
+-69.66186,-22.345179,1,Terminal,Origen/Destino potencial
+-70.200987,-22.094074,1,Terminal,Origen/Destino potencial
+-70.213462,-22.114719,1,Terminal,Origen/Destino potencial
+-70.471662,-23.101783,1,Terminal,Origen/Destino potencial
+-70.451891,-23.099495,2,Intermedio,Transito
+-70.416293,-23.684381,2,Intermedio,Transito
+-69.320092,-22.891691,1,Terminal,Origen/Destino potencial
+-69.258477,-22.847689,2,Intermedio,Transito
+-70.485829,-25.40799,1,Terminal,Origen/Destino potencial
+-70.641701,-26.358699,1,Terminal,Origen/Destino potencial
+-70.622354,-26.34793,1,Terminal,Origen/Destino potencial
+-70.010463,-26.431047,2,Intermedio,Transito
+-69.986573,-26.45195,2,Intermedio,Transito
+-70.001553,-26.49247,2,Intermedio,Transito
+-70.822323,-27.067557,1,Terminal,Origen/Destino potencial
+-70.332236,-27.366516,1,Terminal,Origen/Destino potencial
+-70.292705,-27.400201,2,Intermedio,Transito
+-71.2208,-28.465108,1,Terminal,Origen/Destino potencial
+-71.177925,-28.474729,2,Intermedio,Transito
+-71.102756,-28.506864,2,Intermedio,Transito
+-71.171452,-28.479373,2,Intermedio,Transito
+-71.078534,-28.508519,2,Intermedio,Transito
+-71.037282,-28.516659,2,Intermedio,Transito
+-70.772808,-28.557285,2,Intermedio,Transito
+-70.761645,-28.575036,3,Interconexion potencial,Intercambio potencial
+-70.78728,-28.572695,4,Interconexion potencial,Intercambio potencial
+-71.201499,-29.511592,1,Terminal,Origen/Destino potencial
+-71.219038,-29.486471,2,Intermedio,Transito
+-71.200347,-29.918942,2,Intermedio,Transito
+-71.282773,-29.943598,2,Intermedio,Transito
+-71.335756,-29.968247,2,Intermedio,Transito
+-71.337941,-29.952963,1,Terminal,Origen/Destino potencial
+-70.745349,-30.03422,2,Intermedio,Transito
+-70.712762,-30.033966,2,Intermedio,Transito
+-70.516406,-30.028011,2,Intermedio,Transito
+-70.503216,-30.041171,2,Intermedio,Transito
+-70.957909,-30.694443,1,Terminal,Origen/Destino potencial
+-71.45754,-31.398435,2,Intermedio,Transito
+-71.396485,-31.391129,2,Intermedio,Transito
+-71.383361,-31.39049,1,Terminal,Origen/Destino potencial
+-70.965018,-31.780442,2,Intermedio,Transito
+-71.513745,-31.912209,2,Intermedio,Transito
+-71.420207,-33.064509,1,Terminal,Origen/Destino potencial
+-71.374516,-33.099212,2,Intermedio,Transito
+-71.343538,-33.1401,2,Intermedio,Transito
+-71.341853,-33.14977,1,Terminal,Origen/Destino potencial
+-71.386956,-33.331546,2,Intermedio,Transito
+-71.323365,-33.359743,2,Intermedio,Transito
+-71.25576,-33.390744,2,Intermedio,Transito
+-71.196333,-33.405185,2,Intermedio,Transito
+-71.155095,-33.412922,2,Intermedio,Transito
+-71.487373,-35.538535,2,Intermedio,Transito
+-71.4275,-35.573697,2,Intermedio,Transito
+-70.794492,-35.823975,1,Terminal,Origen/Destino potencial
+-70.761829,-35.824056,1,Terminal,Origen/Destino potencial
+-71.329958,-35.51988,2,Intermedio,Transito
+-71.317269,-35.497608,1,Terminal,Origen/Destino potencial
+-71.560926,-35.424699,1,Terminal,Origen/Destino potencial
+-71.603353,-35.424417,2,Intermedio,Transito
+-70.300512,-18.379389,2,Intermedio,Transito
+-70.930935,-32.251616,1,Terminal,Origen/Destino potencial
+-71.230417,-32.437482,1,Terminal,Origen/Destino potencial
+-71.446328,-32.507304,2,Intermedio,Transito
+-71.458822,-32.552822,2,Intermedio,Transito
+-71.191135,-32.789352,2,Intermedio,Transito
+-71.168511,-32.788208,2,Intermedio,Transito
+-71.145198,-32.80006,1,Terminal,Origen/Destino potencial
+-70.952439,-32.842841,1,Terminal,Origen/Destino potencial
+-70.963274,-32.778418,1,Terminal,Origen/Destino potencial
+-70.656723,-32.747913,2,Intermedio,Transito
+-70.570165,-32.781002,2,Intermedio,Transito
+-70.625999,-32.855367,1,Terminal,Origen/Destino potencial
+-71.444962,-33.045729,1,Terminal,Origen/Destino potencial
+-71.220148,-32.997384,2,Intermedio,Transito
+-71.603238,-33.546915,2,Intermedio,Transito
+-71.629034,-33.640681,1,Terminal,Origen/Destino potencial
+-71.591086,-33.684725,2,Intermedio,Transito
+-109.327784,-27.099869,1,Terminal,Origen/Destino potencial
+-109.364164,-27.135206,2,Intermedio,Transito
+-109.419329,-27.163123,2,Intermedio,Transito
+-109.429527,-27.149088,1,Terminal,Origen/Destino potencial
+-71.734425,-34.049026,2,Intermedio,Transito
+-71.738787,-34.086142,2,Intermedio,Transito
+-71.729525,-34.115317,2,Intermedio,Transito
+-71.654656,-34.205445,2,Intermedio,Transito
+-71.6399,-34.231876,2,Intermedio,Transito
+-71.61567,-34.326141,2,Intermedio,Transito
+-71.622609,-34.288106,2,Intermedio,Transito
+-71.625186,-34.249153,2,Intermedio,Transito
+-72.027668,-34.411808,1,Terminal,Origen/Destino potencial
+-72.004953,-34.385097,2,Intermedio,Transito
+-71.993943,-34.386371,2,Intermedio,Transito
+-70.704087,-33.978197,3,Interconexion potencial,Intercambio potencial
+-70.712175,-33.979913,2,Intermedio,Transito
+-70.726297,-34.064454,1,Terminal,Origen/Destino potencial
+-70.651151,-34.182445,1,Terminal,Origen/Destino potencial
+-70.964922,-34.22602,2,Intermedio,Transito
+-70.817212,-34.209454,2,Intermedio,Transito
+-70.818607,-34.223779,2,Intermedio,Transito
+-71.080945,-34.29322,2,Intermedio,Transito
+-70.963886,-34.354581,2,Intermedio,Transito
+-70.989123,-34.583863,1,Terminal,Origen/Destino potencial
+-71.074566,-34.622699,2,Intermedio,Transito
+-71.273859,-34.728588,2,Intermedio,Transito
+-71.049174,-34.716358,1,Terminal,Origen/Destino potencial
+-71.034717,-34.696409,1,Terminal,Origen/Destino potencial
+-71.040464,-34.708884,2,Intermedio,Transito
+-71.03095,-34.715356,2,Intermedio,Transito
+-71.366057,-34.64033,4,Interconexion potencial,Intercambio potencial
+-71.342956,-34.626859,2,Intermedio,Transito
+-71.305138,-34.644599,2,Intermedio,Transito
+-71.238177,-34.659766,2,Intermedio,Transito
+-71.362628,-34.596118,1,Terminal,Origen/Destino potencial
+-71.558411,-34.69486,2,Intermedio,Transito
+-71.614418,-34.713278,2,Intermedio,Transito
+-71.64403,-34.727716,2,Intermedio,Transito
+-71.23942,-34.985338,2,Intermedio,Transito
+-71.193917,-34.964275,1,Terminal,Origen/Destino potencial
+-71.125315,-34.959988,1,Terminal,Origen/Destino potencial
+-71.161229,-34.866612,1,Terminal,Origen/Destino potencial
+-71.151192,-34.884056,1,Terminal,Origen/Destino potencial
+-71.318868,-34.926571,1,Terminal,Origen/Destino potencial
+-71.347863,-34.994043,2,Intermedio,Transito
+-71.381708,-34.998819,1,Terminal,Origen/Destino potencial
+-71.805162,-34.976697,2,Intermedio,Transito
+-71.984548,-34.985687,2,Intermedio,Transito
+-71.677593,-35.521463,1,Terminal,Origen/Destino potencial
+-71.692195,-35.523935,2,Intermedio,Transito
+-71.696887,-35.548249,1,Terminal,Origen/Destino potencial
+-71.799309,-35.396143,1,Terminal,Origen/Destino potencial
+-71.704719,-35.576323,1,Terminal,Origen/Destino potencial
+-71.581872,-35.74644,1,Terminal,Origen/Destino potencial
+-71.406058,-35.695943,1,Terminal,Origen/Destino potencial
+-71.684716,-35.966053,2,Intermedio,Transito
+-71.958077,-36.424817,2,Intermedio,Transito
+-71.962333,-36.439707,1,Terminal,Origen/Destino potencial
+-71.557141,-36.553927,2,Intermedio,Transito
+-71.549849,-36.556636,2,Intermedio,Transito
+-71.831911,-36.629085,2,Intermedio,Transito
+-71.892297,-36.703612,2,Intermedio,Transito
+-72.212377,-36.503423,2,Intermedio,Transito
+-72.397636,-36.393527,1,Terminal,Origen/Destino potencial
+-72.396316,-36.395514,1,Terminal,Origen/Destino potencial
+-72.476519,-36.744372,2,Intermedio,Transito
+-72.298422,-36.742424,2,Intermedio,Transito
+-72.098808,-36.976654,2,Intermedio,Transito
+-72.086879,-36.900951,1,Terminal,Origen/Destino potencial
+-72.024706,-36.897901,1,Terminal,Origen/Destino potencial
+-72.030367,-36.799838,1,Terminal,Origen/Destino potencial
+-72.007858,-37.097422,2,Intermedio,Transito
+-72.018829,-37.119398,4,Interconexion potencial,Intercambio potencial
+-72.597628,-38.773688,1,Terminal,Origen/Destino potencial
+-72.953339,-38.74877,1,Terminal,Origen/Destino potencial
+-72.131708,-36.623015,2,Intermedio,Transito
+-72.993713,-36.73875,1,Terminal,Origen/Destino potencial
+-72.987835,-36.741332,1,Terminal,Origen/Destino potencial
+-73.114216,-36.714502,1,Terminal,Origen/Destino potencial
+-72.951573,-37.166946,1,Terminal,Origen/Destino potencial
+-72.937708,-37.174941,1,Terminal,Origen/Destino potencial
+-73.156357,-37.094474,1,Terminal,Origen/Destino potencial
+-73.403086,-37.492662,2,Intermedio,Transito
+-73.656032,-37.610302,1,Terminal,Origen/Destino potencial
+-73.493552,-38.344001,2,Intermedio,Transito
+-73.494711,-38.340653,1,Terminal,Origen/Destino potencial
+-73.491061,-38.344606,1,Terminal,Origen/Destino potencial
+-72.210699,-37.706189,2,Intermedio,Transito
+-72.006314,-37.684267,2,Intermedio,Transito
+-71.978441,-37.674145,2,Intermedio,Transito
+-72.021527,-37.670451,1,Terminal,Origen/Destino potencial
+-71.637905,-37.88188,1,Terminal,Origen/Destino potencial
+-71.679119,-37.329936,1,Terminal,Origen/Destino potencial
+-72.152917,-38.941993,1,Terminal,Origen/Destino potencial
+-72.101712,-38.926648,2,Intermedio,Transito
+-70.751898,-33.821921,4,Interconexion potencial,Intercambio potencial
+-70.742684,-33.864454,2,Intermedio,Transito
+-70.734891,-33.902072,2,Intermedio,Transito
+-70.711976,-33.942157,2,Intermedio,Transito
+-72.529285,-37.585697,1,Terminal,Origen/Destino potencial
+-72.673112,-37.501864,1,Terminal,Origen/Destino potencial
+-72.723897,-37.263148,1,Terminal,Origen/Destino potencial
+-72.563323,-37.086878,1,Terminal,Origen/Destino potencial
+-72.402702,-37.03584,2,Intermedio,Transito
+-71.941346,-37.240366,1,Terminal,Origen/Destino potencial
+-69.074276,-18.284622,1,Terminal,Origen/Destino potencial
+-69.122851,-18.278315,2,Intermedio,Transito
+-69.171383,-18.257457,2,Intermedio,Transito
+-69.212275,-18.221094,2,Intermedio,Transito
+-69.265538,-18.227732,2,Intermedio,Transito
+-69.305757,-18.220207,2,Intermedio,Transito
+-69.354419,-18.198765,2,Intermedio,Transito
+-69.403124,-18.175216,2,Intermedio,Transito
+-69.418412,-18.182004,1,Terminal,Origen/Destino potencial
+-70.712091,-34.070919,1,Terminal,Origen/Destino potencial
+-70.721988,-34.107301,2,Intermedio,Transito
+-70.728933,-34.144242,2,Intermedio,Transito
+-72.071462,-35.026913,2,Intermedio,Transito
+-72.120421,-35.032499,2,Intermedio,Transito
+-72.573224,-35.814603,2,Intermedio,Transito
+-72.697722,-37.830451,2,Intermedio,Transito
+-72.829197,-37.982988,1,Terminal,Origen/Destino potencial
+-72.70842,-38.218168,1,Terminal,Origen/Destino potencial
+-72.666511,-38.250844,2,Intermedio,Transito
+-71.370613,-38.453981,1,Terminal,Origen/Destino potencial
+-71.365359,-38.457498,1,Terminal,Origen/Destino potencial
+-72.788615,-38.413922,1,Terminal,Origen/Destino potencial
+-72.781229,-38.411167,2,Intermedio,Transito
+-72.391514,-38.485968,2,Intermedio,Transito
+-72.419425,-38.508461,2,Intermedio,Transito
+-72.384263,-38.463234,2,Intermedio,Transito
+-72.38422,-38.432875,2,Intermedio,Transito
+-72.846252,-38.5966,1,Terminal,Origen/Destino potencial
+-72.046278,-38.930295,2,Intermedio,Transito
+-72.032179,-38.932955,1,Terminal,Origen/Destino potencial
+-72.630112,-38.958817,1,Terminal,Origen/Destino potencial
+-72.625852,-38.951375,2,Intermedio,Transito
+-72.637263,-38.986325,2,Intermedio,Transito
+-72.636052,-38.977167,2,Intermedio,Transito
+-72.676003,-39.102927,1,Terminal,Origen/Destino potencial
+-71.826037,-38.861029,1,Terminal,Origen/Destino potencial
+-71.782696,-38.851874,2,Intermedio,Transito
+-71.729302,-38.855323,2,Intermedio,Transito
+-71.695073,-38.853186,1,Terminal,Origen/Destino potencial
+-73.403561,-38.778971,1,Terminal,Origen/Destino potencial
+-73.397953,-38.783685,1,Terminal,Origen/Destino potencial
+-73.089193,-38.996748,2,Intermedio,Transito
+-73.078688,-38.992267,1,Terminal,Origen/Destino potencial
+-73.163862,-39.178218,1,Terminal,Origen/Destino potencial
+-72.224092,-38.670649,1,Terminal,Origen/Destino potencial
+-73.423313,-39.891727,1,Terminal,Origen/Destino potencial
+-73.427446,-39.887767,1,Terminal,Origen/Destino potencial
+-73.146836,-39.739307,2,Intermedio,Transito
+-73.206654,-39.732331,2,Intermedio,Transito
+-73.228228,-39.764305,2,Intermedio,Transito
+-73.213122,-39.794663,2,Intermedio,Transito
+-73.245916,-39.814201,4,Interconexion potencial,Intercambio potencial
+-72.800656,-39.960292,1,Terminal,Origen/Destino potencial
+-72.805595,-39.945155,2,Intermedio,Transito
+-72.79726,-39.915895,2,Intermedio,Transito
+-72.797086,-39.883092,2,Intermedio,Transito
+-72.813004,-39.863426,3,Interconexion potencial,Intercambio potencial
+-72.952214,-39.665725,1,Terminal,Origen/Destino potencial
+-72.961099,-39.539475,1,Terminal,Origen/Destino potencial
+-72.325308,-39.635045,1,Terminal,Origen/Destino potencial
+-72.875809,-40.108315,2,Intermedio,Transito
+-72.877806,-40.075206,2,Intermedio,Transito
+-72.872829,-40.07062,2,Intermedio,Transito
+-72.393662,-40.128278,1,Terminal,Origen/Destino potencial
+-72.38277,-40.130985,2,Intermedio,Transito
+-72.380577,-40.130058,1,Terminal,Origen/Destino potencial
+-72.481451,-40.321676,1,Terminal,Origen/Destino potencial
+-72.46623,-40.319692,1,Terminal,Origen/Destino potencial
+-73.011589,-40.412766,2,Intermedio,Transito
+-73.010976,-40.414525,1,Terminal,Origen/Destino potencial
+-72.61748,-40.67812,2,Intermedio,Transito
+-72.604067,-40.683526,2,Intermedio,Transito
+-73.216366,-40.796273,2,Intermedio,Transito
+-72.889872,-40.962307,1,Terminal,Origen/Destino potencial
+-72.884227,-40.972732,1,Terminal,Origen/Destino potencial
+-73.17961,-41.730979,2,Intermedio,Transito
+-73.140672,-41.761585,2,Intermedio,Transito
+-73.127543,-41.77122,1,Terminal,Origen/Destino potencial
+-72.011628,-37.401677,2,Intermedio,Transito
+-71.96074,-37.409302,1,Terminal,Origen/Destino potencial
+-73.025767,-41.161166,1,Terminal,Origen/Destino potencial
+-73.02764,-41.136016,2,Intermedio,Transito
+-73.46748,-41.402899,1,Terminal,Origen/Destino potencial
+-73.461735,-41.396128,2,Intermedio,Transito
+-73.464751,-41.392241,1,Terminal,Origen/Destino potencial
+-73.004633,-41.257254,1,Terminal,Origen/Destino potencial
+-73.595017,-41.616011,1,Terminal,Origen/Destino potencial
+-73.828694,-41.868116,1,Terminal,Origen/Destino potencial
+-73.602873,-42.439671,2,Intermedio,Transito
+-73.657243,-42.362565,2,Intermedio,Transito
+-73.647291,-42.379571,2,Intermedio,Transito
+-73.502179,-42.46731,1,Terminal,Origen/Destino potencial
+-73.488076,-42.470988,2,Intermedio,Transito
+-73.473535,-42.14438,1,Terminal,Origen/Destino potencial
+-73.620305,-43.120027,1,Terminal,Origen/Destino potencial
+-73.47207,-42.889868,1,Terminal,Origen/Destino potencial
+-72.708391,-42.916508,2,Intermedio,Transito
+-71.866712,-43.18577,1,Terminal,Origen/Destino potencial
+-71.803977,-43.617811,1,Terminal,Origen/Destino potencial
+-72.470602,-41.966167,1,Terminal,Origen/Destino potencial
+-72.697814,-45.4068,1,Terminal,Origen/Destino potencial
+-72.666468,-44.763993,2,Intermedio,Transito
+-72.682703,-44.736432,2,Intermedio,Transito
+-72.680783,-44.727232,2,Intermedio,Transito
+-72.716822,-44.719346,2,Intermedio,Transito
+-73.746419,-43.897519,1,Terminal,Origen/Destino potencial
+-73.742368,-43.888867,1,Terminal,Origen/Destino potencial
+-70.908115,-53.162648,2,Intermedio,Transito
+-70.929005,-53.185589,1,Terminal,Origen/Destino potencial
+-67.610913,-54.934125,2,Intermedio,Transito
+-67.594422,-54.933789,1,Terminal,Origen/Destino potencial
+-71.7293,-46.53761,1,Terminal,Origen/Destino potencial
+-72.573143,-47.253959,1,Terminal,Origen/Destino potencial
+-71.915644,-46.294646,1,Terminal,Origen/Destino potencial
+-71.937478,-46.291886,2,Intermedio,Transito
+-72.347504,-51.259104,1,Terminal,Origen/Destino potencial
+-72.344657,-51.256265,2,Intermedio,Transito
+-72.506265,-51.726282,2,Intermedio,Transito
+-71.414061,-52.427093,2,Intermedio,Transito
+-69.690549,-52.315858,1,Terminal,Origen/Destino potencial
+-69.687753,-52.316665,1,Terminal,Origen/Destino potencial
+-70.368772,-53.295628,3,Interconexion potencial,Intercambio potencial
+-70.365394,-53.301887,1,Terminal,Origen/Destino potencial
+-70.380165,-53.290516,1,Terminal,Origen/Destino potencial
+-69.287823,-52.769591,1,Terminal,Origen/Destino potencial
+-69.2909,-52.776461,1,Terminal,Origen/Destino potencial
+-70.741959,-33.731986,3,Interconexion potencial,Intercambio potencial
+-70.73554,-33.735921,2,Intermedio,Transito
+-70.739014,-33.810107,1,Terminal,Origen/Destino potencial
+-71.12941,-33.402347,1,Terminal,Origen/Destino potencial
+-71.118931,-33.515952,2,Intermedio,Transito
+-71.247456,-52.784353,1,Terminal,Origen/Destino potencial
+-71.425499,-52.652069,2,Intermedio,Transito
+-71.463727,-52.651005,1,Terminal,Origen/Destino potencial
+-70.443542,-27.565991,2,Intermedio,Transito
+-70.453132,-27.603033,2,Intermedio,Transito
+-72.033243,-34.997113,2,Intermedio,Transito
+-72.180846,-36.613167,2,Intermedio,Transito
+-72.150385,-36.608224,2,Intermedio,Transito
+-72.148864,-36.608082,2,Intermedio,Transito
+-72.380529,-38.337294,2,Intermedio,Transito
+-72.087889,-36.899545,2,Intermedio,Transito
+-69.595587,-18.341745,1,Terminal,Origen/Destino potencial
+-69.568398,-18.338521,2,Intermedio,Transito
+-71.948354,-37.457128,1,Terminal,Origen/Destino potencial
+-71.980266,-37.470988,2,Intermedio,Transito
+-72.179594,-34.900636,1,Terminal,Origen/Destino potencial
+-72.181529,-34.936692,1,Terminal,Origen/Destino potencial
+-71.349493,-34.673572,2,Intermedio,Transito
+-71.296172,-34.708205,2,Intermedio,Transito
+-69.549269,-18.381835,1,Terminal,Origen/Destino potencial
+-71.748866,-35.625944,1,Terminal,Origen/Destino potencial
+-71.007524,-52.76024,2,Intermedio,Transito
+-71.006229,-52.780566,2,Intermedio,Transito
+-70.976336,-52.835227,2,Intermedio,Transito
+-70.44453,-27.539605,2,Intermedio,Transito
+-73.110232,-36.786693,1,Terminal,Origen/Destino potencial
+-73.087744,-36.787806,1,Terminal,Origen/Destino potencial
+-72.86609,-36.729797,1,Terminal,Origen/Destino potencial
+-72.919145,-36.746548,1,Terminal,Origen/Destino potencial
+-73.02123,-38.230663,1,Terminal,Origen/Destino potencial
+-72.993154,-38.193721,1,Terminal,Origen/Destino potencial
+-73.345649,-37.475933,1,Terminal,Origen/Destino potencial
+-73.346272,-37.476463,2,Intermedio,Transito
+-73.401754,-37.24693,2,Intermedio,Transito
+-73.427662,-37.239658,1,Terminal,Origen/Destino potencial
+-73.340389,-37.246725,2,Intermedio,Transito
+-72.343134,-37.487274,1,Terminal,Origen/Destino potencial
+-72.298375,-37.479453,1,Terminal,Origen/Destino potencial
+-72.019525,-37.455448,2,Intermedio,Transito
+-72.018596,-37.416804,2,Intermedio,Transito
+-70.745626,-33.78492,2,Intermedio,Transito
+-70.768437,-33.805164,2,Intermedio,Transito
+-70.572938,-33.634778,1,Terminal,Origen/Destino potencial
+-70.514979,-33.615533,2,Intermedio,Transito
+-70.480813,-33.606807,1,Terminal,Origen/Destino potencial
+-70.454698,-33.587806,1,Terminal,Origen/Destino potencial
+-70.396223,-33.592922,2,Intermedio,Transito
+-70.395552,-33.593352,2,Intermedio,Transito
+-70.35958,-33.633539,1,Terminal,Origen/Destino potencial
+-70.341,-33.67753,2,Intermedio,Transito
+-70.334033,-33.700805,1,Terminal,Origen/Destino potencial
+-70.352861,-33.640374,2,Intermedio,Transito
+-70.347813,-33.609816,2,Intermedio,Transito
+-70.388998,-33.587591,2,Intermedio,Transito
+-70.455369,-33.576971,2,Intermedio,Transito
+-70.518695,-33.598124,2,Intermedio,Transito
+-70.579401,-33.595254,1,Terminal,Origen/Destino potencial
+-70.629674,-33.58431,1,Terminal,Origen/Destino potencial
+-70.627231,-33.600016,1,Terminal,Origen/Destino potencial
+-70.666814,-33.596524,1,Terminal,Origen/Destino potencial
+-70.704521,-33.592279,2,Intermedio,Transito
+-70.714401,-33.587849,2,Intermedio,Transito
+-70.713369,-33.632078,2,Intermedio,Transito
+-70.723485,-33.674309,2,Intermedio,Transito
+-70.725807,-33.715359,2,Intermedio,Transito
+-70.7384,-33.743173,2,Intermedio,Transito
+-71.143438,-34.327694,2,Intermedio,Transito
+-71.155051,-34.368813,2,Intermedio,Transito
+-71.034489,-34.462013,2,Intermedio,Transito
+-70.974621,-34.479841,2,Intermedio,Transito
+-70.97955,-34.734331,1,Terminal,Origen/Destino potencial
+-70.791586,-34.233974,1,Terminal,Origen/Destino potencial
+-70.76516,-34.212666,1,Terminal,Origen/Destino potencial
+-70.5373,-34.210276,1,Terminal,Origen/Destino potencial
+-70.564138,-34.19508,1,Terminal,Origen/Destino potencial
+-70.57095,-34.196275,1,Terminal,Origen/Destino potencial
+-70.634302,-34.195208,2,Intermedio,Transito
+-70.722349,-34.172964,2,Intermedio,Transito
+-70.700621,-34.149989,2,Intermedio,Transito
+-70.683332,-34.116197,2,Intermedio,Transito
+-70.646482,-34.009865,1,Terminal,Origen/Destino potencial
+-70.646482,-33.989798,1,Terminal,Origen/Destino potencial
+-70.639721,-33.95042,2,Intermedio,Transito
+-70.642302,-33.946482,1,Terminal,Origen/Destino potencial
+-70.708363,-33.967329,1,Terminal,Origen/Destino potencial
+-70.699486,-33.966259,1,Terminal,Origen/Destino potencial
+-71.801987,-36.114676,2,Intermedio,Transito
+-72.36103,-38.061735,1,Terminal,Origen/Destino potencial
+-72.773088,-38.409514,1,Terminal,Origen/Destino potencial
+-72.782197,-38.416109,1,Terminal,Origen/Destino potencial
+-72.776391,-38.424839,2,Intermedio,Transito
+-72.786197,-38.438262,1,Terminal,Origen/Destino potencial
+-73.154953,-39.058263,2,Intermedio,Transito
+-73.129602,-39.030652,2,Intermedio,Transito
+-72.947479,-38.782466,1,Terminal,Origen/Destino potencial
+-72.953724,-39.587446,2,Intermedio,Transito
+-72.953569,-39.623273,2,Intermedio,Transito
+-72.074696,-39.516772,2,Intermedio,Transito
+-71.82325,-39.331908,2,Intermedio,Transito
+-71.754712,-39.337896,2,Intermedio,Transito
+-71.686999,-39.352025,2,Intermedio,Transito
+-71.636233,-39.356247,2,Intermedio,Transito
+-72.37703,-39.268007,2,Intermedio,Transito
+-72.445207,-39.279594,2,Intermedio,Transito
+-72.510184,-39.311386,2,Intermedio,Transito
+-72.569381,-39.351905,2,Intermedio,Transito
+-73.290075,-39.843356,2,Intermedio,Transito
+-73.345497,-39.860534,2,Intermedio,Transito
+-73.400777,-39.870528,1,Terminal,Origen/Destino potencial
+-73.257399,-39.809979,1,Terminal,Origen/Destino potencial
+-73.252471,-39.801376,1,Terminal,Origen/Destino potencial
+-73.194202,-39.850842,2,Intermedio,Transito
+-73.156166,-39.88372,2,Intermedio,Transito
+-73.128502,-39.921768,2,Intermedio,Transito
+-72.888205,-40.065139,2,Intermedio,Transito
+-72.880566,-40.073275,1,Terminal,Origen/Destino potencial
+-72.864877,-40.089781,2,Intermedio,Transito
+-72.872257,-40.124873,2,Intermedio,Transito
+-72.827769,-41.483134,1,Terminal,Origen/Destino potencial
+-72.686769,-42.002208,1,Terminal,Origen/Destino potencial
+-72.71908,-42.909622,1,Terminal,Origen/Destino potencial
+-72.470041,-45.404069,1,Terminal,Origen/Destino potencial
+-72.416676,-45.424176,2,Intermedio,Transito
+-72.370653,-51.696028,2,Intermedio,Transito
+-72.328423,-51.699674,2,Intermedio,Transito
+-70.88676,-34.230151,1,Terminal,Origen/Destino potencial
+-70.656565,-34.037705,2,Intermedio,Transito
+-71.347758,-34.622604,1,Terminal,Origen/Destino potencial
+-71.029861,-34.713283,1,Terminal,Origen/Destino potencial
+-70.821157,-34.287007,1,Terminal,Origen/Destino potencial
+-70.817336,-34.284853,2,Intermedio,Transito
+-70.818819,-34.282056,1,Terminal,Origen/Destino potencial
+-70.094692,-20.273418,1,Terminal,Origen/Destino potencial
+-73.594188,-42.438261,1,Terminal,Origen/Destino potencial
+-72.497439,-51.716352,1,Terminal,Origen/Destino potencial
+-70.73777,-32.756425,1,Terminal,Origen/Destino potencial
+-71.3379,-29.953,1,Terminal,Origen/Destino potencial
+-70.3322,-27.3665,2,Intermedio,Transito
+-70.274,-27.4189,1,Terminal,Origen/Destino potencial
+-70.4217,-23.6954,1,Terminal,Origen/Destino potencial
+-70.398,-23.6464,1,Terminal,Origen/Destino potencial
+-71.611,-33.6452,1,Terminal,Origen/Destino potencial
+-71.445,-33.0457,1,Terminal,Origen/Destino potencial
+-71.4514,-33.0632,1,Terminal,Origen/Destino potencial
+-70.9077,-34.4039,1,Terminal,Origen/Destino potencial
+-73.3456,-37.4759,1,Terminal,Origen/Destino potencial
+-72.4027,-37.0358,1,Terminal,Origen/Destino potencial
+-71.347536,-34.958326,1,Terminal,Origen/Destino potencial
+-70.2927,-27.4002,1,Terminal,Origen/Destino potencial

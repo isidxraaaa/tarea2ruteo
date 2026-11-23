@@ -1,0 +1,25 @@
+
+services:
+  db:
+    image: pgrouting/pgrouting:16-3.5-3.7.3
+
+    environment:
+      POSTGRES_DB: tarea2ruteo
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Configura POSTGRES_PASSWORD}
+
+    ports:
+      - "127.0.0.1:5434:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./main.sql:/docker-entrypoint-initdb.d/01-main.sql:ro
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d tarea2ruteo"]
+      interval: 5s
+      timeout: 5s
+      retries: 15
+
+volumes:
+  postgres_data:
