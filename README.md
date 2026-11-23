@@ -39,7 +39,7 @@ Tener instalados:
 ### 1. Clonar el repositorio
 
 ```powershell
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/isidxraaaa/tarea2ruteo.git
 cd tarea2ruteo
 ```
 
